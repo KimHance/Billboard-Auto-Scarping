@@ -41,6 +41,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
       "rank": 1,
       "title": "Song Title",
       "artist": "Artist Name",
+      "image": "https://charts-static.billboard.com/img/...",
       "last_week": 2,
       "peak_position": 1,
       "peak_date": "YYYY-MM-DD",
@@ -59,6 +60,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
 *   `rank`: 현재 순위 (Integer).
 *   `title`: 곡 제목 또는 아티스트 이름 (String).
 *   `artist`: 아티스트 이름 (String).
+*   `image`: 앨범 커버 또는 아티스트 이미지 URL (String | null).
 *   `last_week`: 지난주 순위 (Integer | null).
 *   `peak_position`: 역대 최고 순위 (Integer | null).
 *   `peak_date`: 최고 순위 기록 날짜 (String | null).
@@ -76,6 +78,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
       "rank": 1,
       "title": "Beautiful Things",
       "artist": "Benson Boone",
+      "image": "https://charts-static.billboard.com/img/2024/01/benson-boone-beautiful-things-950x950.jpg",
       "last_week": 2,
       "peak_position": 1,
       "peak_date": "2024-03-21",
@@ -87,6 +90,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
       "rank": 2,
       "title": "Carnival",
       "artist": "¥$: Kanye West & Ty Dolla $ign",
+      "image": "https://charts-static.billboard.com/img/2024/02/kanye-west-ty-dolla-sign-carnival-950x950.jpg",
       "last_week": 1,
       "peak_position": 1,
       "peak_date": "2024-03-01",
@@ -108,6 +112,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
       "rank": 1,
       "title": "Taylor Swift",
       "artist": "Taylor Swift",
+      "image": "https://charts-static.billboard.com/img/2006/12/taylor-swift-000.jpg",
       "last_week": 1,
       "peak_position": 1,
       "peak_date": null,

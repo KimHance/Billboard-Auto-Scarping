@@ -64,6 +64,15 @@ def scrape():
             artist_span = title_h3.find_next_sibling("span") if title_h3 else None
             artist = artist_span.get_text(strip=True) if artist_span else "Unknown"
             
+            # Image Extraction
+            image_url = None
+            img_tag = row.find("img", class_="c-lazy-image__img")
+            if img_tag:
+                if img_tag.get("data-lazy-src"):
+                    image_url = img_tag.get("data-lazy-src")
+                elif img_tag.get("src"):
+                    image_url = img_tag.get("src")
+            
             # Extended Stats
             debut_container = row.find("div", class_="o-chart-position-stats__debut")
             peak_container = row.find("div", class_="o-chart-position-stats__peak")
@@ -91,7 +100,7 @@ def scrape():
                 if p_date_div and p_date_div.find("a"):
                     peak_date = parse_date(p_date_div.find("a").get_text(strip=True))
             
-            # Standard Stats
+            # Standard Stats (Fallback/Verification)
             last_week = None
             weeks_on_chart = None
             
@@ -111,6 +120,7 @@ def scrape():
                 "rank": rank,
                 "title": song_title,
                 "artist": artist,
+                "image": image_url,
                 "last_week": last_week,
                 "peak_position": peak_pos,
                 "weeks_on_chart": weeks_on_chart,

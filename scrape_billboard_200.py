@@ -46,7 +46,7 @@ def scrape():
     
     print(f"Chart Date: {chart_date}")
 
-    # 2. Parse Albums (Billboard 200 is Albums, not Songs, but structure is same)
+    # 2. Parse Songs
     chart_data = []
     rows = soup.find_all("div", class_="o-chart-results-list-row-container")
     
@@ -59,10 +59,19 @@ def scrape():
             rank = int(rank_wrapper.get_text(strip=True)) if rank_wrapper and rank_wrapper.get_text(strip=True).isdigit() else 0
             
             title_h3 = row.find("h3", id="title-of-a-story")
-            album_title = title_h3.get_text(strip=True) if title_h3 else "Unknown"
+            song_title = title_h3.get_text(strip=True) if title_h3 else "Unknown"
             
             artist_span = title_h3.find_next_sibling("span") if title_h3 else None
             artist = artist_span.get_text(strip=True) if artist_span else "Unknown"
+            
+            # Image Extraction
+            image_url = None
+            img_tag = row.find("img", class_="c-lazy-image__img")
+            if img_tag:
+                if img_tag.get("data-lazy-src"):
+                    image_url = img_tag.get("data-lazy-src")
+                elif img_tag.get("src"):
+                    image_url = img_tag.get("src")
             
             # Extended Stats
             debut_container = row.find("div", class_="o-chart-position-stats__debut")
@@ -91,7 +100,7 @@ def scrape():
                 if p_date_div and p_date_div.find("a"):
                     peak_date = parse_date(p_date_div.find("a").get_text(strip=True))
             
-            # Standard Stats
+            # Standard Stats (Fallback/Verification)
             last_week = None
             weeks_on_chart = None
             
@@ -109,8 +118,9 @@ def scrape():
             
             entry = {
                 "rank": rank,
-                "title": album_title,
+                "title": song_title,
                 "artist": artist,
+                "image": image_url,
                 "last_week": last_week,
                 "peak_position": peak_pos,
                 "weeks_on_chart": weeks_on_chart,
