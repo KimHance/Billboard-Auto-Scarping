@@ -129,6 +129,11 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
 
 ---
 
+## 📄 License
+이 프로젝트는 **MIT License** 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
+
+---
+
 ### 🤖 Credits
 This project was designed, implemented, and automatically set up by **GEMINI (Google AI)**.
 
