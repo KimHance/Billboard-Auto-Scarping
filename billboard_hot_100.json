@@ -2,6 +2,7 @@
     "date": "2025-11-29",
     "data": [
         {
+            "status": "Steady",
             "rank": 1,
             "title": "The Fate Of Ophelia",
             "artist": "Taylor Swift",
@@ -14,6 +15,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Steady",
             "rank": 2,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
@@ -26,6 +28,7 @@
             "peak_date": "2025-08-16"
         },
         {
+            "status": "Steady",
             "rank": 3,
             "title": "Ordinary",
             "artist": "Alex Warren",
@@ -38,6 +41,7 @@
             "peak_date": "2025-06-07"
         },
         {
+            "status": "Steady",
             "rank": 4,
             "title": "Man I Need",
             "artist": "Olivia Dean",
@@ -50,6 +54,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Steady",
             "rank": 5,
             "title": "Opalite",
             "artist": "Taylor Swift",
@@ -62,6 +67,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Rising",
             "rank": 6,
             "title": "Mutt",
             "artist": "Leon Thomas",
@@ -74,6 +80,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 7,
             "title": "Daisies",
             "artist": "Justin Bieber",
@@ -86,6 +93,7 @@
             "peak_date": "2025-07-26"
         },
         {
+            "status": "Rising",
             "rank": 8,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
@@ -98,6 +106,7 @@
             "peak_date": "2019-12-21"
         },
         {
+            "status": "Falling",
             "rank": 9,
             "title": "Folded",
             "artist": "Kehlani",
@@ -110,6 +119,7 @@
             "peak_date": "2025-11-08"
         },
         {
+            "status": "Falling",
             "rank": 10,
             "title": "I Got Better",
             "artist": "Morgan Wallen",
@@ -122,6 +132,7 @@
             "peak_date": "2025-05-31"
         },
         {
+            "status": "Rising",
             "rank": 11,
             "title": "Last Christmas",
             "artist": "Wham!",
@@ -134,6 +145,7 @@
             "peak_date": "2024-12-14"
         },
         {
+            "status": "Falling",
             "rank": 12,
             "title": "Back To Friends",
             "artist": "sombr",
@@ -146,6 +158,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 13,
             "title": "Rockin' Around The Christmas Tree",
             "artist": "Brenda Lee",
@@ -158,6 +171,7 @@
             "peak_date": "2023-12-09"
         },
         {
+            "status": "Rising",
             "rank": 14,
             "title": "Jingle Bell Rock",
             "artist": "Bobby Helms",
@@ -170,6 +184,7 @@
             "peak_date": "2020-01-04"
         },
         {
+            "status": "Falling",
             "rank": 15,
             "title": "What I Want",
             "artist": "Morgan WallenFeaturingTate McRae",
@@ -182,6 +197,7 @@
             "peak_date": "2025-05-31"
         },
         {
+            "status": "Rising",
             "rank": 16,
             "title": "Choosin' Texas",
             "artist": "Ella Langley",
@@ -194,6 +210,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 17,
             "title": "It Depends",
             "artist": "Chris BrownFeaturingBryson Tiller",
@@ -206,6 +223,7 @@
             "peak_date": "2025-11-01"
         },
         {
+            "status": "Rising",
             "rank": 18,
             "title": "So Easy (To Fall In Love)",
             "artist": "Olivia Dean",
@@ -218,6 +236,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Rising",
             "rank": 19,
             "title": "Santa Tell Me",
             "artist": "Ariana Grande",
@@ -230,6 +249,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Rising",
             "rank": 20,
             "title": "Manchild",
             "artist": "Sabrina Carpenter",
@@ -242,6 +262,7 @@
             "peak_date": "2025-06-21"
         },
         {
+            "status": "Falling",
             "rank": 21,
             "title": "Soda Pop",
             "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
@@ -254,6 +275,7 @@
             "peak_date": "2025-10-04"
         },
         {
+            "status": "Falling",
             "rank": 22,
             "title": "Tears",
             "artist": "Sabrina Carpenter",
@@ -266,6 +288,7 @@
             "peak_date": "2025-09-13"
         },
         {
+            "status": "Falling",
             "rank": 23,
             "title": "Love Me Not",
             "artist": "Ravyn Lenae",
@@ -278,6 +301,7 @@
             "peak_date": "2025-08-23"
         },
         {
+            "status": "Steady",
             "rank": 24,
             "title": "Your Idol",
             "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
@@ -290,6 +314,7 @@
             "peak_date": "2025-08-23"
         },
         {
+            "status": "Falling",
             "rank": 25,
             "title": "Travelin' Soldier",
             "artist": "Cody Johnson",
@@ -302,6 +327,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Falling",
             "rank": 26,
             "title": "Tit For Tat",
             "artist": "Tate McRae",
@@ -314,6 +340,7 @@
             "peak_date": "2025-10-11"
         },
         {
+            "status": "Rising",
             "rank": 27,
             "title": "Underneath The Tree",
             "artist": "Kelly Clarkson",
@@ -326,6 +353,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Falling",
             "rank": 28,
             "title": "Elizabeth Taylor",
             "artist": "Taylor Swift",
@@ -338,6 +366,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Rising",
             "rank": 29,
             "title": "The Christmas Song (Merry Christmas To You)",
             "artist": "Nat \"King\" Cole",
@@ -350,6 +379,7 @@
             "peak_date": "2023-01-07"
         },
         {
+            "status": "Rising",
             "rank": 30,
             "title": "It's The Most Wonderful Time Of The Year",
             "artist": "Andy Williams",
@@ -362,6 +392,7 @@
             "peak_date": "2021-01-02"
         },
         {
+            "status": "Steady",
             "rank": 31,
             "title": "Gabriela",
             "artist": "KATSEYE",
@@ -374,6 +405,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 32,
             "title": "It's Beginning To Look A Lot Like Christmas",
             "artist": "Michael Buble",
@@ -386,6 +418,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Rising",
             "rank": 33,
             "title": "Don't Mind If I Do",
             "artist": "Riley GreenFeaturing Ella Langley",
@@ -398,6 +431,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Re-Entry",
             "rank": 34,
             "title": "Let It Snow! Let It Snow! Let It Snow!",
             "artist": "Dean Martin",
@@ -410,6 +444,7 @@
             "peak_date": "2024-01-06"
         },
         {
+            "status": "New",
             "rank": 35,
             "title": "Fear",
             "artist": "NF",
@@ -422,6 +457,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 36,
             "title": "How It's Done",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
@@ -434,6 +470,7 @@
             "peak_date": "2025-09-20"
         },
         {
+            "status": "Re-Entry",
             "rank": 37,
             "title": "Sleigh Ride",
             "artist": "The Ronettes",
@@ -446,6 +483,7 @@
             "peak_date": "2023-12-23"
         },
         {
+            "status": "Falling",
             "rank": 38,
             "title": "6 Months Later",
             "artist": "Megan Moroney",
@@ -458,6 +496,7 @@
             "peak_date": "2025-07-05"
         },
         {
+            "status": "Steady",
             "rank": 39,
             "title": "Somewhere Over Laredo",
             "artist": "Lainey Wilson",
@@ -470,6 +509,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Re-Entry",
             "rank": 40,
             "title": "A Holly Jolly Christmas",
             "artist": "Burl Ives",
@@ -482,6 +522,7 @@
             "peak_date": "2020-01-04"
         },
         {
+            "status": "Falling",
             "rank": 41,
             "title": "No Broke Boys",
             "artist": "Disco Lines &Tinashe",
@@ -494,6 +535,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 42,
             "title": "What It Sounds Like",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
@@ -506,6 +548,7 @@
             "peak_date": "2025-09-20"
         },
         {
+            "status": "Falling",
             "rank": 43,
             "title": "Happen To Me",
             "artist": "Russell Dickerson",
@@ -518,6 +561,7 @@
             "peak_date": "2025-09-27"
         },
         {
+            "status": "Falling",
             "rank": 44,
             "title": "Wi$h Li$t",
             "artist": "Taylor Swift",
@@ -530,6 +574,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Falling",
             "rank": 45,
             "title": "wgft",
             "artist": "GunnaFeaturingBurna Boy",
@@ -542,6 +587,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Falling",
             "rank": 46,
             "title": "Father Figure",
             "artist": "Taylor Swift",
@@ -554,6 +600,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Rising",
             "rank": 47,
             "title": "Where Is My Husband!",
             "artist": "RAYE",
@@ -566,6 +613,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Re-Entry",
             "rank": 48,
             "title": "Christmas (Baby Please Come Home)",
             "artist": "Darlene Love",
@@ -578,6 +626,7 @@
             "peak_date": "2022-12-31"
         },
         {
+            "status": "Re-Entry",
             "rank": 49,
             "title": "Feliz Navidad",
             "artist": "Jose Feliciano",
@@ -590,6 +639,7 @@
             "peak_date": "2021-01-02"
         },
         {
+            "status": "Rising",
             "rank": 50,
             "title": "20 Cigarettes",
             "artist": "Morgan Wallen",
@@ -602,6 +652,7 @@
             "peak_date": "2025-05-31"
         },
         {
+            "status": "Falling",
             "rank": 51,
             "title": "Hell At Night",
             "artist": "BigXthaPlug Featuring Ella Langley",
@@ -614,6 +665,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 52,
             "title": "Yukon",
             "artist": "Justin Bieber",
@@ -626,6 +678,7 @@
             "peak_date": "2025-07-26"
         },
         {
+            "status": "Falling",
             "rank": 53,
             "title": "Dracula",
             "artist": "Tame Impala",
@@ -638,6 +691,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 54,
             "title": "Is It A Crime",
             "artist": "Mariah the Scientist&Kali Uchis",
@@ -650,6 +704,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 55,
             "title": "A Couple Minutes",
             "artist": "Olivia Dean",
@@ -662,6 +717,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 56,
             "title": "Nice To Meet You",
             "artist": "Myles Smith",
@@ -674,6 +730,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Falling",
             "rank": 57,
             "title": "House Again",
             "artist": "Hudson Westbrook",
@@ -686,6 +743,7 @@
             "peak_date": "2025-10-25"
         },
         {
+            "status": "New",
             "rank": 58,
             "title": "Robbed You",
             "artist": "Summer Walker&Mariah the Scientist",
@@ -698,6 +756,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 59,
             "title": "Darlin'",
             "artist": "Chase Matthew",
@@ -710,6 +769,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "New",
             "rank": 60,
             "title": "Go Girl",
             "artist": "Summer Walker,Latto&Doja Cat",
@@ -722,6 +782,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 61,
             "title": "Shot Callin",
             "artist": "YoungBoy Never Broke Again",
@@ -734,6 +795,7 @@
             "peak_date": "2025-11-01"
         },
         {
+            "status": "New",
             "rank": 62,
             "title": "Who I Was",
             "artist": "NF&MGK",
@@ -746,6 +808,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 63,
             "title": "Better Me For You (Brown Eyes)",
             "artist": "Max McNown",
@@ -758,6 +821,7 @@
             "peak_date": "2025-08-23"
         },
         {
+            "status": "Falling",
             "rank": 64,
             "title": "The Life Of A Showgirl",
             "artist": "Taylor SwiftFeaturingSabrina Carpenter",
@@ -770,6 +834,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Falling",
             "rank": 65,
             "title": "Back In The Saddle",
             "artist": "Luke Combs",
@@ -782,6 +847,7 @@
             "peak_date": "2025-11-08"
         },
         {
+            "status": "Rising",
             "rank": 66,
             "title": "ErrTime",
             "artist": "Cardi B",
@@ -794,6 +860,7 @@
             "peak_date": "2025-10-11"
         },
         {
+            "status": "Falling",
             "rank": 67,
             "title": "Jealous Type",
             "artist": "Doja Cat",
@@ -806,6 +873,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "New",
             "rank": 68,
             "title": "Baby",
             "artist": "Summer Walker&Chris Brown",
@@ -818,6 +886,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "New",
             "rank": 69,
             "title": "No",
             "artist": "Summer Walker",
@@ -830,6 +899,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "New",
             "rank": 70,
             "title": "Sorry",
             "artist": "NFWithJames Arthur",
@@ -842,6 +912,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 71,
             "title": "Last One To Know",
             "artist": "Gavin Adcock",
@@ -854,6 +925,7 @@
             "peak_date": "2025-10-25"
         },
         {
+            "status": "Falling",
             "rank": 72,
             "title": "12 To 12",
             "artist": "sombr",
@@ -866,6 +938,7 @@
             "peak_date": "2025-09-27"
         },
         {
+            "status": "Falling",
             "rank": 73,
             "title": "Sugar On My Tongue",
             "artist": "Tyler, the Creator",
@@ -878,6 +951,7 @@
             "peak_date": "2025-08-02"
         },
         {
+            "status": "Falling",
             "rank": 74,
             "title": "Take Me Thru Dere",
             "artist": "Metro Boomin,Quavo, Breskii & YKNIECE",
@@ -890,6 +964,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 75,
             "title": "The Fall",
             "artist": "Cody Johnson",
@@ -902,6 +977,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Falling",
             "rank": 76,
             "title": "Ruin The Friendship",
             "artist": "Taylor Swift",
@@ -914,6 +990,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Falling",
             "rank": 77,
             "title": "Wood",
             "artist": "Taylor Swift",
@@ -926,6 +1003,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Falling",
             "rank": 78,
             "title": "Actually Romantic",
             "artist": "Taylor Swift",
@@ -938,6 +1016,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "New",
             "rank": 79,
             "title": "FMT",
             "artist": "Summer Walker",
@@ -950,6 +1029,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "New",
             "rank": 80,
             "title": "1-800 Heartbreak",
             "artist": "Summer Walker&Anderson .Paak",
@@ -962,6 +1042,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 81,
             "title": "Eldest Daughter",
             "artist": "Taylor Swift",
@@ -974,6 +1055,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Rising",
             "rank": 82,
             "title": "Nice To Each Other",
             "artist": "Olivia Dean",
@@ -986,6 +1068,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 83,
             "title": "What Kinda Man",
             "artist": "Parker McCollum",
@@ -998,6 +1081,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 84,
             "title": "Went Legit",
             "artist": "G Herbo",
@@ -1010,6 +1094,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "New",
             "rank": 85,
             "title": "Give Me A Reason",
             "artist": "NF",
@@ -1022,6 +1107,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "New",
             "rank": 86,
             "title": "Home",
             "artist": "NF",
@@ -1034,6 +1120,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 87,
             "title": "Safe",
             "artist": "Cardi BFeaturingKehlani",
@@ -1046,6 +1133,7 @@
             "peak_date": "2025-10-04"
         },
         {
+            "status": "Falling",
             "rank": 88,
             "title": "Sparks",
             "artist": "Coldplay",
@@ -1058,6 +1146,7 @@
             "peak_date": "2025-10-25"
         },
         {
+            "status": "Falling",
             "rank": 89,
             "title": "Cancelled!",
             "artist": "Taylor Swift",
@@ -1070,6 +1159,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Falling",
             "rank": 90,
             "title": "The Dead Dance",
             "artist": "Lady Gaga",
@@ -1082,6 +1172,7 @@
             "peak_date": "2025-09-20"
         },
         {
+            "status": "Falling",
             "rank": 91,
             "title": "When Did You Get Hot?",
             "artist": "Sabrina Carpenter",
@@ -1094,6 +1185,7 @@
             "peak_date": "2025-09-13"
         },
         {
+            "status": "Falling",
             "rank": 92,
             "title": "Sienna",
             "artist": "The Marias",
@@ -1106,6 +1198,7 @@
             "peak_date": "2025-09-27"
         },
         {
+            "status": "Falling",
             "rank": 93,
             "title": "Camera",
             "artist": "Ed Sheeran",
@@ -1118,6 +1211,7 @@
             "peak_date": "2025-09-27"
         },
         {
+            "status": "Falling",
             "rank": 94,
             "title": "Days Like These",
             "artist": "Luke Combs",
@@ -1130,6 +1224,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 95,
             "title": "Amen",
             "artist": "Shaboozey&Jelly Roll",
@@ -1142,6 +1237,7 @@
             "peak_date": "2025-07-12"
         },
         {
+            "status": "New",
             "rank": 96,
             "title": "Baller",
             "artist": "Summer Walker,Glorilla,Sexyy Red& Monaleo",
@@ -1154,6 +1250,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "New",
             "rank": 97,
             "title": "Let Alone The One You Love",
             "artist": "Olivia Dean",
@@ -1166,6 +1263,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "New",
             "rank": 98,
             "title": "Losin' Streak",
             "artist": "Blake Roman",
@@ -1178,6 +1276,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 99,
             "title": "Favorite Country Song",
             "artist": "HARDY",
@@ -1190,6 +1289,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 100,
             "title": "How Far Does A Goodbye Go",
             "artist": "Jason Aldean",

@@ -2,6 +2,7 @@
     "date": "2025-11-29",
     "data": [
         {
+            "status": "Steady",
             "rank": 1,
             "title": "Taylor Swift",
             "artist": "Taylor Swift",
@@ -14,6 +15,7 @@
             "peak_date": "2014-09-06"
         },
         {
+            "status": "Steady",
             "rank": 2,
             "title": "Morgan Wallen",
             "artist": "Morgan Wallen",
@@ -26,6 +28,7 @@
             "peak_date": "2021-01-23"
         },
         {
+            "status": "Re-Entry",
             "rank": 3,
             "title": "NF",
             "artist": "NF",
@@ -38,6 +41,7 @@
             "peak_date": "2019-08-10"
         },
         {
+            "status": "Falling",
             "rank": 4,
             "title": "Sabrina Carpenter",
             "artist": "Sabrina Carpenter",
@@ -50,6 +54,7 @@
             "peak_date": "2024-09-07"
         },
         {
+            "status": "Re-Entry",
             "rank": 5,
             "title": "5 Seconds Of Summer",
             "artist": "5 Seconds of Summer",
@@ -62,6 +67,7 @@
             "peak_date": "2014-08-09"
         },
         {
+            "status": "Rising",
             "rank": 6,
             "title": "Olivia Dean",
             "artist": "Unknown",
@@ -74,6 +80,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Re-Entry",
             "rank": 7,
             "title": "Summer Walker",
             "artist": "Summer Walker",
@@ -86,6 +93,7 @@
             "peak_date": "2021-11-20"
         },
         {
+            "status": "Falling",
             "rank": 8,
             "title": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
@@ -98,6 +106,7 @@
             "peak_date": "2025-08-23"
         },
         {
+            "status": "Falling",
             "rank": 9,
             "title": "Alex Warren",
             "artist": "Alex Warren",
@@ -110,6 +119,7 @@
             "peak_date": "2025-08-02"
         },
         {
+            "status": "Steady",
             "rank": 10,
             "title": "Kendrick Lamar",
             "artist": "Kendrick Lamar",
@@ -122,6 +132,7 @@
             "peak_date": "2015-04-04"
         },
         {
+            "status": "Rising",
             "rank": 11,
             "title": "Ella Langley",
             "artist": "Unknown",
@@ -134,6 +145,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Rising",
             "rank": 12,
             "title": "Billie Eilish",
             "artist": "Billie Eilish",
@@ -146,6 +158,7 @@
             "peak_date": "2019-04-13"
         },
         {
+            "status": "Falling",
             "rank": 13,
             "title": "Luke Combs",
             "artist": "Luke Combs",
@@ -158,6 +171,7 @@
             "peak_date": "2019-11-23"
         },
         {
+            "status": "Rising",
             "rank": 14,
             "title": "Justin Bieber",
             "artist": "Justin Bieber",
@@ -170,6 +184,7 @@
             "peak_date": "2015-11-28"
         },
         {
+            "status": "Steady",
             "rank": 15,
             "title": "Tyler, The Creator",
             "artist": "Tyler, the Creator",
@@ -182,6 +197,7 @@
             "peak_date": "2019-06-01"
         },
         {
+            "status": "Falling",
             "rank": 16,
             "title": "Tate McRae",
             "artist": "Tate McRae",
@@ -194,6 +210,7 @@
             "peak_date": "2025-03-08"
         },
         {
+            "status": "Rising",
             "rank": 17,
             "title": "KATSEYE",
             "artist": "KATSEYE",
@@ -206,6 +223,7 @@
             "peak_date": "2025-07-12"
         },
         {
+            "status": "Falling",
             "rank": 18,
             "title": "Benson Boone",
             "artist": "Benson Boone",
@@ -218,6 +236,7 @@
             "peak_date": "2025-07-05"
         },
         {
+            "status": "Steady",
             "rank": 19,
             "title": "The Weeknd",
             "artist": "The Weeknd",
@@ -230,6 +249,7 @@
             "peak_date": "2015-08-01"
         },
         {
+            "status": "Falling",
             "rank": 20,
             "title": "sombr",
             "artist": "sombr",
@@ -242,6 +262,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Steady",
             "rank": 21,
             "title": "Drake",
             "artist": "Drake",
@@ -254,6 +275,7 @@
             "peak_date": "2015-02-28"
         },
         {
+            "status": "Rising",
             "rank": 22,
             "title": "Teddy Swims",
             "artist": "Teddy Swims",
@@ -266,6 +288,7 @@
             "peak_date": "2025-02-08"
         },
         {
+            "status": "Steady",
             "rank": 23,
             "title": "SZA",
             "artist": "SZA",
@@ -278,6 +301,7 @@
             "peak_date": "2022-12-24"
         },
         {
+            "status": "Falling",
             "rank": 24,
             "title": "Stray Kids",
             "artist": "Stray Kids",
@@ -290,6 +314,7 @@
             "peak_date": "2022-04-02"
         },
         {
+            "status": "Rising",
             "rank": 25,
             "title": "Chris Stapleton",
             "artist": "Chris Stapleton",
@@ -302,6 +327,7 @@
             "peak_date": "2017-05-27"
         },
         {
+            "status": "Falling",
             "rank": 26,
             "title": "Shaboozey",
             "artist": "Shaboozey",
@@ -314,6 +340,7 @@
             "peak_date": "2024-06-15"
         },
         {
+            "status": "Falling",
             "rank": 27,
             "title": "Bruno Mars",
             "artist": "Bruno Mars",
@@ -326,6 +353,7 @@
             "peak_date": "2016-12-10"
         },
         {
+            "status": "Rising",
             "rank": 28,
             "title": "Ariana Grande",
             "artist": "Ariana Grande",
@@ -338,6 +366,7 @@
             "peak_date": "2014-08-30"
         },
         {
+            "status": "Rising",
             "rank": 29,
             "title": "Mariah Carey",
             "artist": "Mariah Carey",
@@ -350,6 +379,7 @@
             "peak_date": "2020-01-04"
         },
         {
+            "status": "Falling",
             "rank": 30,
             "title": "Fleetwood Mac",
             "artist": "Fleetwood Mac",
@@ -362,6 +392,7 @@
             "peak_date": "2020-10-24"
         },
         {
+            "status": "Rising",
             "rank": 31,
             "title": "Vince Guaraldi Trio",
             "artist": "Vince Guaraldi Trio",
@@ -374,6 +405,7 @@
             "peak_date": "2022-12-24"
         },
         {
+            "status": "Falling",
             "rank": 32,
             "title": "Chappell Roan",
             "artist": "Chappell Roan",
@@ -386,6 +418,7 @@
             "peak_date": "2024-10-05"
         },
         {
+            "status": "Falling",
             "rank": 33,
             "title": "Lady Gaga",
             "artist": "Lady Gaga",
@@ -398,6 +431,7 @@
             "peak_date": "2016-11-12"
         },
         {
+            "status": "Rising",
             "rank": 34,
             "title": "Riley Green",
             "artist": "Riley Green",
@@ -410,6 +444,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 35,
             "title": "Jelly Roll",
             "artist": "Jelly Roll",
@@ -422,6 +457,7 @@
             "peak_date": "2024-10-26"
         },
         {
+            "status": "Rising",
             "rank": 36,
             "title": "Cody Johnson",
             "artist": "Cody Johnson",
@@ -434,6 +470,7 @@
             "peak_date": "2019-02-02"
         },
         {
+            "status": "Falling",
             "rank": 37,
             "title": "Kehlani",
             "artist": "Kehlani",
@@ -446,6 +483,7 @@
             "peak_date": "2020-05-23"
         },
         {
+            "status": "Rising",
             "rank": 38,
             "title": "Leon Thomas",
             "artist": "Unknown",
@@ -458,6 +496,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "Rising",
             "rank": 39,
             "title": "Michael Buble",
             "artist": "Michael Buble",
@@ -470,6 +509,7 @@
             "peak_date": "2018-12-01"
         },
         {
+            "status": "Rising",
             "rank": 40,
             "title": "Chris Brown",
             "artist": "Chris Brown",
@@ -482,6 +522,7 @@
             "peak_date": "2014-10-04"
         },
         {
+            "status": "Falling",
             "rank": 41,
             "title": "Tame Impala",
             "artist": "Tame Impala",
@@ -494,6 +535,7 @@
             "peak_date": "2020-02-29"
         },
         {
+            "status": "Re-Entry",
             "rank": 42,
             "title": "Frank Sinatra",
             "artist": "Frank Sinatra",
@@ -506,6 +548,7 @@
             "peak_date": "2019-12-14"
         },
         {
+            "status": "Rising",
             "rank": 43,
             "title": "Bad Bunny",
             "artist": "Bad Bunny",
@@ -518,6 +561,7 @@
             "peak_date": "2022-05-21"
         },
         {
+            "status": "Falling",
             "rank": 44,
             "title": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
             "artist": "Unknown",
@@ -530,6 +574,7 @@
             "peak_date": "2025-09-13"
         },
         {
+            "status": "Falling",
             "rank": 45,
             "title": "Radiohead",
             "artist": "Radiohead",
@@ -542,6 +587,7 @@
             "peak_date": "2016-05-28"
         },
         {
+            "status": "Steady",
             "rank": 46,
             "title": "Deftones",
             "artist": "Deftones",
@@ -554,6 +600,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Steady",
             "rank": 47,
             "title": "Zach Bryan",
             "artist": "Zach Bryan",
@@ -566,6 +613,7 @@
             "peak_date": "2023-09-09"
         },
         {
+            "status": "Rising",
             "rank": 48,
             "title": "Metallica",
             "artist": "Metallica",
@@ -578,6 +626,7 @@
             "peak_date": "2016-12-10"
         },
         {
+            "status": "Falling",
             "rank": 49,
             "title": "Ed Sheeran",
             "artist": "Ed Sheeran",
@@ -590,6 +639,7 @@
             "peak_date": "2015-09-05"
         },
         {
+            "status": "Falling",
             "rank": 50,
             "title": "Hozier",
             "artist": "Hozier",
@@ -602,6 +652,7 @@
             "peak_date": "2019-03-16"
         },
         {
+            "status": "Falling",
             "rank": 51,
             "title": "Michael Jackson",
             "artist": "Unknown",
@@ -614,6 +665,7 @@
             "peak_date": "2022-12-03"
         },
         {
+            "status": "Rising",
             "rank": 52,
             "title": "Post Malone",
             "artist": "Post Malone",
@@ -626,6 +678,7 @@
             "peak_date": "2018-05-12"
         },
         {
+            "status": "Rising",
             "rank": 53,
             "title": "Rihanna",
             "artist": "Rihanna",
@@ -638,6 +691,7 @@
             "peak_date": "2023-02-25"
         },
         {
+            "status": "Falling",
             "rank": 54,
             "title": "YoungBoy Never Broke Again",
             "artist": "YoungBoy Never Broke Again",
@@ -650,6 +704,7 @@
             "peak_date": "2020-09-26"
         },
         {
+            "status": "Falling",
             "rank": 55,
             "title": "Megan Moroney",
             "artist": "Megan Moroney",
@@ -662,6 +717,7 @@
             "peak_date": "2024-07-27"
         },
         {
+            "status": "Falling",
             "rank": 56,
             "title": "Nirvana",
             "artist": "Nirvana",
@@ -674,6 +730,7 @@
             "peak_date": "2022-03-26"
         },
         {
+            "status": "Falling",
             "rank": 57,
             "title": "Hayley Williams",
             "artist": "Hayley Williams",
@@ -686,6 +743,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 58,
             "title": "Mariah The Scientist",
             "artist": "Mariah the Scientist",
@@ -698,6 +756,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 59,
             "title": "Myles Smith",
             "artist": "Myles Smith",
@@ -710,6 +769,7 @@
             "peak_date": "2024-11-23"
         },
         {
+            "status": "Re-Entry",
             "rank": 60,
             "title": "Green Day",
             "artist": "Green Day",
@@ -722,6 +782,7 @@
             "peak_date": "2016-10-29"
         },
         {
+            "status": "Rising",
             "rank": 61,
             "title": "Nat King Cole",
             "artist": "Nat King Cole",
@@ -734,6 +795,7 @@
             "peak_date": "2023-01-07"
         },
         {
+            "status": "Falling",
             "rank": 62,
             "title": "Linkin Park",
             "artist": "Linkin Park",
@@ -746,6 +808,7 @@
             "peak_date": "2017-06-10"
         },
         {
+            "status": "Falling",
             "rank": 63,
             "title": "Cardi B",
             "artist": "Cardi B",
@@ -758,6 +821,7 @@
             "peak_date": "2018-04-21"
         },
         {
+            "status": "Rising",
             "rank": 64,
             "title": "Lainey Wilson",
             "artist": "Lainey Wilson",
@@ -770,6 +834,7 @@
             "peak_date": "2024-09-07"
         },
         {
+            "status": "Rising",
             "rank": 65,
             "title": "BigXthaPlug",
             "artist": "Unknown",
@@ -782,6 +847,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 66,
             "title": "Brandon Lake",
             "artist": "Brandon Lake",
@@ -794,6 +860,7 @@
             "peak_date": "2025-06-28"
         },
         {
+            "status": "Rising",
             "rank": 67,
             "title": "Brenda Lee",
             "artist": "Unknown",
@@ -806,6 +873,7 @@
             "peak_date": "2024-01-06"
         },
         {
+            "status": "Rising",
             "rank": 68,
             "title": "Wham!",
             "artist": "Wham!",
@@ -818,6 +886,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Rising",
             "rank": 69,
             "title": "The Red Clay Strays",
             "artist": "Unknown",
@@ -830,6 +899,7 @@
             "peak_date": "2024-08-10"
         },
         {
+            "status": "Re-Entry",
             "rank": 70,
             "title": "Andy Williams",
             "artist": "Andy Williams",
@@ -842,6 +912,7 @@
             "peak_date": "2022-01-01"
         },
         {
+            "status": "Re-Entry",
             "rank": 71,
             "title": "Cheap Trick",
             "artist": "Cheap Trick",
@@ -854,6 +925,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 72,
             "title": "YEONJUN",
             "artist": "Unknown",
@@ -866,6 +938,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 73,
             "title": "Fuerza Regida",
             "artist": "Fuerza Regida",
@@ -878,6 +951,7 @@
             "peak_date": "2025-05-17"
         },
         {
+            "status": "Rising",
             "rank": 74,
             "title": "Zach Top",
             "artist": "Zach Top",
@@ -890,6 +964,7 @@
             "peak_date": "2025-09-13"
         },
         {
+            "status": "Falling",
             "rank": 75,
             "title": "TWICE",
             "artist": "Twice",
@@ -902,6 +977,7 @@
             "peak_date": "2022-09-10"
         },
         {
+            "status": "Falling",
             "rank": 76,
             "title": "Coldplay",
             "artist": "Coldplay",
@@ -914,6 +990,7 @@
             "peak_date": "2024-10-19"
         },
         {
+            "status": "Falling",
             "rank": 77,
             "title": "Twenty One Pilots",
             "artist": "Twenty One Pilots",
@@ -926,6 +1003,7 @@
             "peak_date": "2016-10-08"
         },
         {
+            "status": "New",
             "rank": 78,
             "title": "&TEAM",
             "artist": "Unknown",
@@ -938,6 +1016,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 79,
             "title": "Cain Walker",
             "artist": "Unknown",
@@ -950,6 +1029,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Re-Entry",
             "rank": 80,
             "title": "iTZY",
             "artist": "iTZY",
@@ -962,6 +1042,7 @@
             "peak_date": "2022-07-30"
         },
         {
+            "status": "Falling",
             "rank": 81,
             "title": "The Marias",
             "artist": "The Marias",
@@ -974,6 +1055,7 @@
             "peak_date": "2024-06-15"
         },
         {
+            "status": "Falling",
             "rank": 82,
             "title": "Jason Aldean",
             "artist": "Jason Aldean",
@@ -986,6 +1068,7 @@
             "peak_date": "2014-10-25"
         },
         {
+            "status": "Falling",
             "rank": 83,
             "title": "Daniel Caesar",
             "artist": "Daniel Caesar",
@@ -998,6 +1081,7 @@
             "peak_date": "2025-11-08"
         },
         {
+            "status": "Re-Entry",
             "rank": 84,
             "title": "Kelsea Ballerini",
             "artist": "Kelsea Ballerini",
@@ -1010,6 +1094,7 @@
             "peak_date": "2024-11-09"
         },
         {
+            "status": "Falling",
             "rank": 85,
             "title": "Gracie Abrams",
             "artist": "Gracie Abrams",
@@ -1022,6 +1107,7 @@
             "peak_date": "2024-07-06"
         },
         {
+            "status": "Falling",
             "rank": 86,
             "title": "Mac Miller",
             "artist": "Mac Miller",
@@ -1034,6 +1120,7 @@
             "peak_date": "2025-02-01"
         },
         {
+            "status": "Re-Entry",
             "rank": 87,
             "title": "Bobby Helms",
             "artist": "Bobby Helms",
@@ -1046,6 +1133,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Re-Entry",
             "rank": 88,
             "title": "Dean Martin",
             "artist": "Unknown",
@@ -1058,6 +1146,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Rising",
             "rank": 89,
             "title": "Tucker Wetmore",
             "artist": "Tucker Wetmore",
@@ -1070,6 +1159,7 @@
             "peak_date": "2025-05-10"
         },
         {
+            "status": "Falling",
             "rank": 90,
             "title": "Frank Ocean",
             "artist": "Frank Ocean",
@@ -1082,6 +1172,7 @@
             "peak_date": "2016-09-10"
         },
         {
+            "status": "Rising",
             "rank": 91,
             "title": "Doja Cat",
             "artist": "Doja Cat",
@@ -1094,6 +1185,7 @@
             "peak_date": "2022-05-07"
         },
         {
+            "status": "Re-Entry",
             "rank": 92,
             "title": "Bing Crosby",
             "artist": "Bing Crosby",
@@ -1106,6 +1198,7 @@
             "peak_date": "2020-01-04"
         },
         {
+            "status": "Falling",
             "rank": 93,
             "title": "Bailey Zimmerman",
             "artist": "Bailey Zimmerman",
@@ -1118,6 +1211,7 @@
             "peak_date": "2022-10-29"
         },
         {
+            "status": "Falling",
             "rank": 94,
             "title": "ROSALIA",
             "artist": "ROSALIA",
@@ -1130,6 +1224,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Re-Entry",
             "rank": 95,
             "title": "The Rolling Stones",
             "artist": "The Rolling Stones",
@@ -1142,6 +1237,7 @@
             "peak_date": "2023-11-04"
         },
         {
+            "status": "Falling",
             "rank": 96,
             "title": "Arctic Monkeys",
             "artist": "Arctic Monkeys",
@@ -1154,6 +1250,7 @@
             "peak_date": "2018-05-26"
         },
         {
+            "status": "Re-Entry",
             "rank": 97,
             "title": "Eminem",
             "artist": "Eminem",
@@ -1166,6 +1263,7 @@
             "peak_date": "2018-01-03"
         },
         {
+            "status": "Falling",
             "rank": 98,
             "title": "Ravyn Lenae",
             "artist": "Unknown",
@@ -1178,6 +1276,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 99,
             "title": "Laufey",
             "artist": "Unknown",
@@ -1190,6 +1289,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 100,
             "title": "Noah Kahan",
             "artist": "Noah Kahan",

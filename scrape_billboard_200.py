@@ -116,7 +116,31 @@ def scrape():
                     
                 weeks_on_chart = int(stats_match.group(3))
             
+            # Determine Chart Status
+            status = "Steady"
+            
+            # Check for explicit New/Re-Entry labels in c-label spans
+            label_spans = row.find_all("span", class_="c-label")
+            for span in label_spans:
+                text = span.get_text(strip=True)
+                if text == "NEW":
+                    status = "New"
+                    break
+                elif text == "RE-ENTRY":
+                    status = "Re-Entry"
+                    break
+            
+            # If not explicit, calculate based on rank movement
+            if status == "Steady" and last_week is not None:
+                if last_week == rank:
+                    status = "Steady"
+                elif last_week > rank: # e.g. LW 10 -> Rank 5 (Rising)
+                    status = "Rising"
+                elif last_week < rank: # e.g. LW 5 -> Rank 10 (Falling)
+                    status = "Falling"
+            
             entry = {
+                "status": status,
                 "rank": rank,
                 "title": song_title,
                 "artist": artist,

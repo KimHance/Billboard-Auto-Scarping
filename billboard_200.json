@@ -2,6 +2,7 @@
     "date": "2025-11-29",
     "data": [
         {
+            "status": "Steady",
             "rank": 1,
             "title": "The Life Of A Showgirl",
             "artist": "Taylor Swift",
@@ -14,6 +15,7 @@
             "peak_date": "2025-10-18"
         },
         {
+            "status": "New",
             "rank": 2,
             "title": "Finally Over It",
             "artist": "Summer Walker",
@@ -26,6 +28,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 3,
             "title": "I'm The Problem",
             "artist": "Morgan Wallen",
@@ -38,6 +41,7 @@
             "peak_date": "2025-05-31"
         },
         {
+            "status": "New",
             "rank": 4,
             "title": "Fear (EP)",
             "artist": "NF",
@@ -50,6 +54,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 5,
             "title": "KPop Demon Hunters",
             "artist": "Soundtrack",
@@ -62,6 +67,7 @@
             "peak_date": "2025-09-20"
         },
         {
+            "status": "New",
             "rank": 6,
             "title": "Everyone's A Star!",
             "artist": "5 Seconds of Summer",
@@ -74,6 +80,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 7,
             "title": "The Art Of Loving",
             "artist": "Olivia Dean",
@@ -86,6 +93,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Falling",
             "rank": 8,
             "title": "Man's Best Friend",
             "artist": "Sabrina Carpenter",
@@ -98,6 +106,7 @@
             "peak_date": "2025-09-13"
         },
         {
+            "status": "Falling",
             "rank": 9,
             "title": "SOS",
             "artist": "SZA",
@@ -110,6 +119,7 @@
             "peak_date": "2022-12-24"
         },
         {
+            "status": "Falling",
             "rank": 10,
             "title": "One Thing At A Time",
             "artist": "Morgan Wallen",
@@ -122,6 +132,7 @@
             "peak_date": "2023-03-18"
         },
         {
+            "status": "Falling",
             "rank": 11,
             "title": "Am I The Drama?",
             "artist": "Cardi B",
@@ -134,6 +145,7 @@
             "peak_date": "2025-10-04"
         },
         {
+            "status": "Rising",
             "rank": 12,
             "title": "You'll Be Alright, Kid",
             "artist": "Alex Warren",
@@ -146,6 +158,7 @@
             "peak_date": "2025-08-02"
         },
         {
+            "status": "Rising",
             "rank": 13,
             "title": "Stick Season",
             "artist": "Noah Kahan",
@@ -158,6 +171,7 @@
             "peak_date": "2024-03-16"
         },
         {
+            "status": "Rising",
             "rank": 14,
             "title": "Short n' Sweet",
             "artist": "Sabrina Carpenter",
@@ -170,6 +184,7 @@
             "peak_date": "2024-09-07"
         },
         {
+            "status": "Rising",
             "rank": 15,
             "title": "Debi Tirar Mas Fotos",
             "artist": "Bad Bunny",
@@ -182,6 +197,7 @@
             "peak_date": "2025-01-25"
         },
         {
+            "status": "Steady",
             "rank": 16,
             "title": "Dangerous: The Double Album",
             "artist": "Morgan Wallen",
@@ -194,6 +210,7 @@
             "peak_date": "2021-01-23"
         },
         {
+            "status": "Falling",
             "rank": 17,
             "title": "Lux",
             "artist": "ROSALIA",
@@ -206,6 +223,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 18,
             "title": "Christmas",
             "artist": "Michael Buble",
@@ -218,6 +236,7 @@
             "peak_date": "2011-12-10"
         },
         {
+            "status": "New",
             "rank": 19,
             "title": "Everything Is A Lot.",
             "artist": "Wale",
@@ -230,6 +249,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 20,
             "title": "Hit Me Hard And Soft",
             "artist": "Billie Eilish",
@@ -242,6 +262,7 @@
             "peak_date": "2024-06-01"
         },
         {
+            "status": "Falling",
             "rank": 21,
             "title": "So Close To What",
             "artist": "Tate McRae",
@@ -254,6 +275,7 @@
             "peak_date": "2025-03-08"
         },
         {
+            "status": "Steady",
             "rank": 22,
             "title": "Take Care",
             "artist": "Drake",
@@ -266,6 +288,7 @@
             "peak_date": "2011-12-03"
         },
         {
+            "status": "Steady",
             "rank": 23,
             "title": "Rumours",
             "artist": "Fleetwood Mac",
@@ -278,6 +301,7 @@
             "peak_date": "1977-04-02"
         },
         {
+            "status": "Steady",
             "rank": 24,
             "title": "CHROMAKOPIA",
             "artist": "Tyler, the Creator",
@@ -290,6 +314,7 @@
             "peak_date": "2024-11-09"
         },
         {
+            "status": "Falling",
             "rank": 25,
             "title": "I Barely Know Her",
             "artist": "sombr",
@@ -302,6 +327,7 @@
             "peak_date": "2025-09-20"
         },
         {
+            "status": "Falling",
             "rank": 26,
             "title": "30 Number One Hits",
             "artist": "Jason Aldean",
@@ -314,6 +340,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Rising",
             "rank": 27,
             "title": "A Charlie Brown Christmas (Soundtrack)",
             "artist": "Vince Guaraldi Trio",
@@ -326,6 +353,7 @@
             "peak_date": "2022-01-01"
         },
         {
+            "status": "Rising",
             "rank": 28,
             "title": "Sex Hysteria",
             "artist": "jessie murph",
@@ -338,6 +366,7 @@
             "peak_date": "2025-08-02"
         },
         {
+            "status": "Rising",
             "rank": 29,
             "title": "Diamonds",
             "artist": "Elton John",
@@ -350,6 +379,7 @@
             "peak_date": "2019-06-15"
         },
         {
+            "status": "Rising",
             "rank": 30,
             "title": "Ultimate Christmas",
             "artist": "Bing Crosby",
@@ -362,6 +392,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Rising",
             "rank": 31,
             "title": "Beautiful Chaos (EP)",
             "artist": "KATSEYE",
@@ -374,6 +405,7 @@
             "peak_date": "2025-07-12"
         },
         {
+            "status": "Rising",
             "rank": 32,
             "title": "111XPANTIA",
             "artist": "Fuerza Regida",
@@ -386,6 +418,7 @@
             "peak_date": "2025-05-17"
         },
         {
+            "status": "Falling",
             "rank": 33,
             "title": "+-=÷x (Tour Collection)",
             "artist": "Ed Sheeran",
@@ -398,6 +431,7 @@
             "peak_date": "2025-01-11"
         },
         {
+            "status": "Falling",
             "rank": 34,
             "title": "MASA",
             "artist": "YoungBoy Never Broke Again",
@@ -410,6 +444,7 @@
             "peak_date": "2025-08-09"
         },
         {
+            "status": "Rising",
             "rank": 35,
             "title": "Swag",
             "artist": "Justin Bieber",
@@ -422,6 +457,7 @@
             "peak_date": "2025-07-26"
         },
         {
+            "status": "Falling",
             "rank": 36,
             "title": "$ome $exy $ongs 4 U",
             "artist": "PARTYNEXTDOOR&Drake",
@@ -434,6 +470,7 @@
             "peak_date": "2025-03-01"
         },
         {
+            "status": "Rising",
             "rank": 37,
             "title": "Merry Christmas",
             "artist": "Mariah Carey",
@@ -446,6 +483,7 @@
             "peak_date": "1994-12-17"
         },
         {
+            "status": "Falling",
             "rank": 38,
             "title": "The Rise And Fall Of A Midwest Princess",
             "artist": "Chappell Roan",
@@ -458,6 +496,7 @@
             "peak_date": "2024-08-24"
         },
         {
+            "status": "Steady",
             "rank": 39,
             "title": "The Tortured Poets Department",
             "artist": "Taylor Swift",
@@ -470,6 +509,7 @@
             "peak_date": "2024-05-04"
         },
         {
+            "status": "Falling",
             "rank": 40,
             "title": "Un Verano Sin Ti",
             "artist": "Bad Bunny",
@@ -482,6 +522,7 @@
             "peak_date": "2022-05-21"
         },
         {
+            "status": "Falling",
             "rank": 41,
             "title": "GNX",
             "artist": "Kendrick Lamar",
@@ -494,6 +535,7 @@
             "peak_date": "2024-12-07"
         },
         {
+            "status": "Falling",
             "rank": 42,
             "title": "$ad Boyz 4 Life II",
             "artist": "Junior H",
@@ -506,6 +548,7 @@
             "peak_date": "2023-10-21"
         },
         {
+            "status": "Falling",
             "rank": 43,
             "title": "Lil Herb",
             "artist": "G Herbo",
@@ -518,6 +561,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 44,
             "title": "The Christmas Song",
             "artist": "Nat King Cole",
@@ -530,6 +574,7 @@
             "peak_date": "2024-01-06"
         },
         {
+            "status": "Falling",
             "rank": 45,
             "title": "Karma: The 4th Album",
             "artist": "Stray Kids",
@@ -542,6 +587,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 46,
             "title": "Thriller",
             "artist": "Michael Jackson",
@@ -554,6 +600,7 @@
             "peak_date": "1983-02-26"
         },
         {
+            "status": "Falling",
             "rank": 47,
             "title": "Where I've Been, Isn't Where I'm Going",
             "artist": "Shaboozey",
@@ -566,6 +613,7 @@
             "peak_date": "2024-06-15"
         },
         {
+            "status": "Falling",
             "rank": 48,
             "title": "Curtain Call: The Hits",
             "artist": "Eminem",
@@ -578,6 +626,7 @@
             "peak_date": "2005-12-24"
         },
         {
+            "status": "Rising",
             "rank": 49,
             "title": "Wicked: The Soundtrack",
             "artist": "Cynthia Erivo,Ariana Grande& Various Artists",
@@ -590,6 +639,7 @@
             "peak_date": "2024-12-07"
         },
         {
+            "status": "Falling",
             "rank": 50,
             "title": "Submarine",
             "artist": "The Marias",
@@ -602,6 +652,7 @@
             "peak_date": "2024-06-15"
         },
         {
+            "status": "Falling",
             "rank": 51,
             "title": "Folklore",
             "artist": "Taylor Swift",
@@ -614,6 +665,7 @@
             "peak_date": "2020-08-08"
         },
         {
+            "status": "Falling",
             "rank": 52,
             "title": "MUSIC",
             "artist": "Playboi Carti",
@@ -626,6 +678,7 @@
             "peak_date": "2025-03-29"
         },
         {
+            "status": "Falling",
             "rank": 53,
             "title": "Ego Death At A Bachelorette Party",
             "artist": "Hayley Williams",
@@ -638,6 +691,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Falling",
             "rank": 54,
             "title": "The Secret Of Us",
             "artist": "Gracie Abrams",
@@ -650,6 +704,7 @@
             "peak_date": "2024-07-06"
         },
         {
+            "status": "Falling",
             "rank": 55,
             "title": "The Last Wun",
             "artist": "Gunna",
@@ -662,6 +717,7 @@
             "peak_date": "2025-08-23"
         },
         {
+            "status": "Falling",
             "rank": 56,
             "title": "Views",
             "artist": "Drake",
@@ -674,6 +730,7 @@
             "peak_date": "2016-05-21"
         },
         {
+            "status": "Falling",
             "rank": 57,
             "title": "American Heartbreak",
             "artist": "Zach Bryan",
@@ -686,6 +743,7 @@
             "peak_date": "2022-06-04"
         },
         {
+            "status": "Falling",
             "rank": 58,
             "title": "Deadbeat",
             "artist": "Tame Impala",
@@ -698,6 +756,7 @@
             "peak_date": "2025-11-01"
         },
         {
+            "status": "Rising",
             "rank": 59,
             "title": "A Christmas Gift For You From Phil Spector",
             "artist": "Various Artists",
@@ -710,6 +769,7 @@
             "peak_date": "2024-01-06"
         },
         {
+            "status": "Falling",
             "rank": 60,
             "title": "Sour",
             "artist": "Olivia Rodrigo",
@@ -722,6 +782,7 @@
             "peak_date": "2021-06-05"
         },
         {
+            "status": "Falling",
             "rank": 61,
             "title": "Chronicle: The 20 Greatest Hits",
             "artist": "Creedence Clearwater Revival",
@@ -734,6 +795,7 @@
             "peak_date": "2020-11-28"
         },
         {
+            "status": "Falling",
             "rank": 62,
             "title": "good kid, m.A.A.d city",
             "artist": "Kendrick Lamar",
@@ -746,6 +808,7 @@
             "peak_date": "2012-11-10"
         },
         {
+            "status": "Falling",
             "rank": 63,
             "title": "I Hope You're Happy",
             "artist": "BigXthaPlug",
@@ -758,6 +821,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 64,
             "title": "Don't Mind If I Do",
             "artist": "Riley Green",
@@ -770,6 +834,7 @@
             "peak_date": "2024-11-02"
         },
         {
+            "status": "Falling",
             "rank": 65,
             "title": "Greatest Hits",
             "artist": "Queen",
@@ -782,6 +847,7 @@
             "peak_date": "2020-11-28"
         },
         {
+            "status": "Rising",
             "rank": 66,
             "title": "Ultimate Christmas",
             "artist": "Frank Sinatra",
@@ -794,6 +860,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Rising",
             "rank": 67,
             "title": "I've Tried Everything But Therapy (Part I)",
             "artist": "Teddy Swims",
@@ -806,6 +873,7 @@
             "peak_date": "2024-05-25"
         },
         {
+            "status": "New",
             "rank": 68,
             "title": "Mount Pleasant (EP)",
             "artist": "Kelsea Ballerini",
@@ -818,6 +886,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 69,
             "title": "Blonde",
             "artist": "Frank Ocean",
@@ -830,6 +899,7 @@
             "peak_date": "2016-09-10"
         },
         {
+            "status": "New",
             "rank": 70,
             "title": "Hazbin Hotel: Season Two",
             "artist": "Soundtrack",
@@ -842,6 +912,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 71,
             "title": "The Best Of Nickelback: Volume 1",
             "artist": "Nickelback",
@@ -854,6 +925,7 @@
             "peak_date": "2013-12-07"
         },
         {
+            "status": "Falling",
             "rank": 72,
             "title": "MAYHEM",
             "artist": "Lady Gaga",
@@ -866,6 +938,7 @@
             "peak_date": "2025-03-22"
         },
         {
+            "status": "Falling",
             "rank": 73,
             "title": "Guts",
             "artist": "Olivia Rodrigo",
@@ -878,6 +951,7 @@
             "peak_date": "2023-09-23"
         },
         {
+            "status": "Falling",
             "rank": 74,
             "title": "Ctrl",
             "artist": "SZA",
@@ -890,6 +964,7 @@
             "peak_date": "2017-07-01"
         },
         {
+            "status": "Falling",
             "rank": 75,
             "title": "Certified Lover Boy",
             "artist": "Drake",
@@ -902,6 +977,7 @@
             "peak_date": "2021-09-18"
         },
         {
+            "status": "Falling",
             "rank": 76,
             "title": "Eternal Sunshine",
             "artist": "Ariana Grande",
@@ -914,6 +990,7 @@
             "peak_date": "2024-03-23"
         },
         {
+            "status": "Rising",
             "rank": 77,
             "title": "Hungover",
             "artist": "Ella Langley",
@@ -926,6 +1003,7 @@
             "peak_date": "2024-11-16"
         },
         {
+            "status": "Rising",
             "rank": 78,
             "title": "Nevermind",
             "artist": "Nirvana",
@@ -938,6 +1016,7 @@
             "peak_date": "1992-01-11"
         },
         {
+            "status": "Falling",
             "rank": 79,
             "title": "For All The Dogs",
             "artist": "Drake",
@@ -950,6 +1029,7 @@
             "peak_date": "2023-10-21"
         },
         {
+            "status": "Falling",
             "rank": 80,
             "title": "The Collection",
             "artist": "OneRepublic",
@@ -962,6 +1042,7 @@
             "peak_date": "2025-08-30"
         },
         {
+            "status": "Falling",
             "rank": 81,
             "title": "Graduation",
             "artist": "Kanye West",
@@ -974,6 +1055,7 @@
             "peak_date": "2007-09-29"
         },
         {
+            "status": "Falling",
             "rank": 82,
             "title": "Hurry Up Tomorrow",
             "artist": "The Weeknd",
@@ -986,6 +1068,7 @@
             "peak_date": "2025-02-15"
         },
         {
+            "status": "Falling",
             "rank": 83,
             "title": "Currents",
             "artist": "Tame Impala",
@@ -998,6 +1081,7 @@
             "peak_date": "2015-08-08"
         },
         {
+            "status": "Falling",
             "rank": 84,
             "title": "Greatest Hits, Vol. I & II",
             "artist": "Billy Joel",
@@ -1010,6 +1094,7 @@
             "peak_date": "1985-09-28"
         },
         {
+            "status": "Falling",
             "rank": 85,
             "title": "Lover",
             "artist": "Taylor Swift",
@@ -1022,6 +1107,7 @@
             "peak_date": "2019-09-07"
         },
         {
+            "status": "Falling",
             "rank": 86,
             "title": "Fireworks & Rollerblades",
             "artist": "Benson Boone",
@@ -1034,6 +1120,7 @@
             "peak_date": "2024-04-20"
         },
         {
+            "status": "Falling",
             "rank": 87,
             "title": "Journey's Greatest Hits",
             "artist": "Journey",
@@ -1046,6 +1133,7 @@
             "peak_date": "1989-02-11"
         },
         {
+            "status": "Steady",
             "rank": 88,
             "title": "Midnights",
             "artist": "Taylor Swift",
@@ -1058,6 +1146,7 @@
             "peak_date": "2022-11-05"
         },
         {
+            "status": "Falling",
             "rank": 89,
             "title": "The Fame",
             "artist": "Lady Gaga",
@@ -1070,6 +1159,7 @@
             "peak_date": "2010-01-16"
         },
         {
+            "status": "Falling",
             "rank": 90,
             "title": "Hozier",
             "artist": "Hozier",
@@ -1082,6 +1172,7 @@
             "peak_date": "2014-10-25"
         },
         {
+            "status": "Rising",
             "rank": 91,
             "title": "Starboy",
             "artist": "The Weeknd",
@@ -1094,6 +1185,7 @@
             "peak_date": "2016-12-17"
         },
         {
+            "status": "Falling",
             "rank": 92,
             "title": "Hamilton: An American Musical",
             "artist": "Original Broadway Cast",
@@ -1106,6 +1198,7 @@
             "peak_date": "2020-07-18"
         },
         {
+            "status": "Falling",
             "rank": 93,
             "title": "Hollywood's Bleeding",
             "artist": "Post Malone",
@@ -1118,6 +1211,7 @@
             "peak_date": "2019-09-21"
         },
         {
+            "status": "Falling",
             "rank": 94,
             "title": "Think Later",
             "artist": "Tate McRae",
@@ -1130,6 +1224,7 @@
             "peak_date": "2023-12-23"
         },
         {
+            "status": "Rising",
             "rank": 95,
             "title": "My Turn",
             "artist": "Lil Baby",
@@ -1142,6 +1237,7 @@
             "peak_date": "2020-03-14"
         },
         {
+            "status": "Falling",
             "rank": 96,
             "title": "Take Care",
             "artist": "BigXthaPlug",
@@ -1154,6 +1250,7 @@
             "peak_date": "2024-10-26"
         },
         {
+            "status": "Rising",
             "rank": 97,
             "title": "AM",
             "artist": "Arctic Monkeys",
@@ -1166,6 +1263,7 @@
             "peak_date": "2013-09-28"
         },
         {
+            "status": "Rising",
             "rank": 98,
             "title": "Channel Orange",
             "artist": "Frank Ocean",
@@ -1178,6 +1276,7 @@
             "peak_date": "2012-07-28"
         },
         {
+            "status": "Falling",
             "rank": 99,
             "title": "50 Number Ones",
             "artist": "George Strait",
@@ -1190,6 +1289,7 @@
             "peak_date": "2004-10-23"
         },
         {
+            "status": "Rising",
             "rank": 100,
             "title": "F-1 Trillion",
             "artist": "Post Malone",
@@ -1202,6 +1302,7 @@
             "peak_date": "2024-08-31"
         },
         {
+            "status": "Falling",
             "rank": 101,
             "title": "Child Of God II",
             "artist": "Forrest Frank",
@@ -1214,6 +1315,7 @@
             "peak_date": "2025-05-24"
         },
         {
+            "status": "Falling",
             "rank": 102,
             "title": "[Hybrid Theory]",
             "artist": "Linkin Park",
@@ -1226,6 +1328,7 @@
             "peak_date": "2002-01-12"
         },
         {
+            "status": "Re-Entry",
             "rank": 103,
             "title": "Meteora",
             "artist": "Linkin Park",
@@ -1238,6 +1341,7 @@
             "peak_date": "2003-04-12"
         },
         {
+            "status": "Rising",
             "rank": 104,
             "title": "DAMN.",
             "artist": "Kendrick Lamar",
@@ -1250,6 +1354,7 @@
             "peak_date": "2017-05-06"
         },
         {
+            "status": "Falling",
             "rank": 105,
             "title": "Traveller",
             "artist": "Chris Stapleton",
@@ -1262,6 +1367,7 @@
             "peak_date": "2015-11-21"
         },
         {
+            "status": "Falling",
             "rank": 106,
             "title": "Scorpion",
             "artist": "Drake",
@@ -1274,6 +1380,7 @@
             "peak_date": "2018-07-14"
         },
         {
+            "status": "Falling",
             "rank": 107,
             "title": "reputation",
             "artist": "Taylor Swift",
@@ -1286,6 +1393,7 @@
             "peak_date": "2017-12-02"
         },
         {
+            "status": "Rising",
             "rank": 108,
             "title": "After Hours",
             "artist": "The Weeknd",
@@ -1298,6 +1406,7 @@
             "peak_date": "2020-04-04"
         },
         {
+            "status": "Rising",
             "rank": 109,
             "title": "Good Girl Gone Bad",
             "artist": "Rihanna",
@@ -1310,6 +1419,7 @@
             "peak_date": "2007-06-23"
         },
         {
+            "status": "Re-Entry",
             "rank": 110,
             "title": "SIS (Soft Is Strong) (EP)",
             "artist": "KATSEYE",
@@ -1322,6 +1432,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 111,
             "title": "Zach Bryan",
             "artist": "Zach Bryan",
@@ -1334,6 +1445,7 @@
             "peak_date": "2023-09-09"
         },
         {
+            "status": "Falling",
             "rank": 112,
             "title": "Beauty Behind The Madness",
             "artist": "The Weeknd",
@@ -1346,6 +1458,7 @@
             "peak_date": "2015-09-19"
         },
         {
+            "status": "Falling",
             "rank": 113,
             "title": "Greatest Hits",
             "artist": "Pitbull",
@@ -1358,6 +1471,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 114,
             "title": "Hearts Sold Separately",
             "artist": "Mariah the Scientist",
@@ -1370,6 +1484,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 115,
             "title": "Son Of Spergy",
             "artist": "Daniel Caesar",
@@ -1382,6 +1497,7 @@
             "peak_date": "2025-11-08"
         },
         {
+            "status": "Rising",
             "rank": 116,
             "title": "The Best Of Pentatonix Christmas",
             "artist": "Pentatonix",
@@ -1394,6 +1510,7 @@
             "peak_date": "2019-12-28"
         },
         {
+            "status": "Falling",
             "rank": 117,
             "title": "If I Know Me",
             "artist": "Morgan Wallen",
@@ -1406,6 +1523,7 @@
             "peak_date": "2021-02-20"
         },
         {
+            "status": "Rising",
             "rank": 118,
             "title": "Cold Beer & Country Music",
             "artist": "Zach Top",
@@ -1418,6 +1536,7 @@
             "peak_date": "2025-03-29"
         },
         {
+            "status": "Steady",
             "rank": 119,
             "title": "Doo-Wops & Hooligans",
             "artist": "Bruno Mars",
@@ -1430,6 +1549,7 @@
             "peak_date": "2010-10-23"
         },
         {
+            "status": "Rising",
             "rank": 120,
             "title": "I Never Liked You",
             "artist": "Future",
@@ -1442,6 +1562,7 @@
             "peak_date": "2022-05-14"
         },
         {
+            "status": "Falling",
             "rank": 121,
             "title": "Leather",
             "artist": "Cody Johnson",
@@ -1454,6 +1575,7 @@
             "peak_date": "2023-11-18"
         },
         {
+            "status": "Falling",
             "rank": 122,
             "title": "Thank Me Later",
             "artist": "Drake",
@@ -1466,6 +1588,7 @@
             "peak_date": "2010-07-03"
         },
         {
+            "status": "Falling",
             "rank": 123,
             "title": "Greatest Hits",
             "artist": "Creed",
@@ -1478,6 +1601,7 @@
             "peak_date": "2004-12-11"
         },
         {
+            "status": "Rising",
             "rank": 124,
             "title": "ANTI",
             "artist": "Rihanna",
@@ -1490,6 +1614,7 @@
             "peak_date": "2016-02-20"
         },
         {
+            "status": "Falling",
             "rank": 125,
             "title": "Freudian",
             "artist": "Daniel Caesar",
@@ -1502,6 +1627,7 @@
             "peak_date": "2017-09-16"
         },
         {
+            "status": "Falling",
             "rank": 126,
             "title": "Starting Over",
             "artist": "Chris Stapleton",
@@ -1514,6 +1640,7 @@
             "peak_date": "2020-11-28"
         },
         {
+            "status": "Falling",
             "rank": 127,
             "title": "This One's For You",
             "artist": "Luke Combs",
@@ -1526,6 +1653,7 @@
             "peak_date": "2018-06-16"
         },
         {
+            "status": "Falling",
             "rank": 128,
             "title": "Greatest Hits",
             "artist": "Tom Petty And The Heartbreakers",
@@ -1538,6 +1666,7 @@
             "peak_date": "2017-10-21"
         },
         {
+            "status": "Falling",
             "rank": 129,
             "title": "The Best Of Sade",
             "artist": "Sade",
@@ -1550,6 +1679,7 @@
             "peak_date": "1994-11-26"
         },
         {
+            "status": "Falling",
             "rank": 130,
             "title": "American Heart",
             "artist": "Benson Boone",
@@ -1562,6 +1692,7 @@
             "peak_date": "2025-07-05"
         },
         {
+            "status": "New",
             "rank": 131,
             "title": "Rebel",
             "artist": "EsDeeKid",
@@ -1574,6 +1705,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Rising",
             "rank": 132,
             "title": "What Not To",
             "artist": "Tucker Wetmore",
@@ -1586,6 +1718,7 @@
             "peak_date": "2025-05-10"
         },
         {
+            "status": "Falling",
             "rank": 133,
             "title": "Born To Die",
             "artist": "Lana Del Rey",
@@ -1598,6 +1731,7 @@
             "peak_date": "2012-02-18"
         },
         {
+            "status": "Falling",
             "rank": 134,
             "title": "Goodbye & Good Riddance",
             "artist": "Juice WRLD",
@@ -1610,6 +1744,7 @@
             "peak_date": "2018-08-11"
         },
         {
+            "status": "Rising",
             "rank": 135,
             "title": "2014 Forest Hills Drive",
             "artist": "J. Cole",
@@ -1622,6 +1757,7 @@
             "peak_date": "2014-12-27"
         },
         {
+            "status": "New",
             "rank": 136,
             "title": "Memories And Empties",
             "artist": "Colter Wall",
@@ -1634,6 +1770,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 137,
             "title": "Greatest Hits",
             "artist": "Guns N' Roses",
@@ -1646,6 +1783,7 @@
             "peak_date": "2004-04-10"
         },
         {
+            "status": "Falling",
             "rank": 138,
             "title": "T R A P S O U L",
             "artist": "Bryson Tiller",
@@ -1658,6 +1796,7 @@
             "peak_date": "2016-01-30"
         },
         {
+            "status": "Falling",
             "rank": 139,
             "title": "Greatest Hits",
             "artist": "Fleetwood Mac",
@@ -1670,6 +1809,7 @@
             "peak_date": "1989-02-11"
         },
         {
+            "status": "Falling",
             "rank": 140,
             "title": "35 Biggest Hits",
             "artist": "Toby Keith",
@@ -1682,6 +1822,7 @@
             "peak_date": "2024-02-17"
         },
         {
+            "status": "Rising",
             "rank": 141,
             "title": "When We All Fall Asleep, Where Do We Go?",
             "artist": "Billie Eilish",
@@ -1694,6 +1835,7 @@
             "peak_date": "2019-04-13"
         },
         {
+            "status": "Falling",
             "rank": 142,
             "title": "Greatest Hits",
             "artist": "2Pac",
@@ -1706,6 +1848,7 @@
             "peak_date": "1999-01-23"
         },
         {
+            "status": "Rising",
             "rank": 143,
             "title": "Tropicoqueta",
             "artist": "Karol G",
@@ -1718,6 +1861,7 @@
             "peak_date": "2025-07-05"
         },
         {
+            "status": "Falling",
             "rank": 144,
             "title": "Texas Forever",
             "artist": "Hudson Westbrook",
@@ -1730,6 +1874,7 @@
             "peak_date": "2025-08-09"
         },
         {
+            "status": "Re-Entry",
             "rank": 145,
             "title": "The Andy Williams Christmas Album",
             "artist": "Andy Williams",
@@ -1742,6 +1887,7 @@
             "peak_date": "2022-01-08"
         },
         {
+            "status": "Re-Entry",
             "rank": 146,
             "title": "Rockin' Around The Christmas Tree: The Decca Christmas Recordings",
             "artist": "Brenda Lee",
@@ -1754,6 +1900,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Rising",
             "rank": 147,
             "title": "Heroes & Villains",
             "artist": "Metro Boomin",
@@ -1766,6 +1913,7 @@
             "peak_date": "2022-12-17"
         },
         {
+            "status": "Rising",
             "rank": 148,
             "title": "Last Christmas (Soundtrack)",
             "artist": "George Michael& Wham!",
@@ -1778,6 +1926,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Falling",
             "rank": 149,
             "title": "Own Worst Enemy",
             "artist": "Gavin Adcock",
@@ -1790,6 +1939,7 @@
             "peak_date": "2025-08-30"
         },
         {
+            "status": "Falling",
             "rank": 150,
             "title": "More Life",
             "artist": "Drake",
@@ -1802,6 +1952,7 @@
             "peak_date": "2017-04-08"
         },
         {
+            "status": "Rising",
             "rank": 151,
             "title": "1989 (Taylor's Version)",
             "artist": "Taylor Swift",
@@ -1814,6 +1965,7 @@
             "peak_date": "2023-11-11"
         },
         {
+            "status": "Rising",
             "rank": 152,
             "title": "Higher",
             "artist": "Chris Stapleton",
@@ -1826,6 +1978,7 @@
             "peak_date": "2023-11-25"
         },
         {
+            "status": "Falling",
             "rank": 153,
             "title": "The Great American Bar Scene",
             "artist": "Zach Bryan",
@@ -1838,6 +1991,7 @@
             "peak_date": "2024-07-20"
         },
         {
+            "status": "Falling",
             "rank": 154,
             "title": "OK Computer",
             "artist": "Radiohead",
@@ -1850,6 +2004,7 @@
             "peak_date": "1997-07-19"
         },
         {
+            "status": "New",
             "rank": 155,
             "title": "(((((ultraSOUND)))))",
             "artist": "The Neighbourhood",
@@ -1862,6 +2017,7 @@
             "peak_date": "2025-11-29"
         },
         {
+            "status": "Falling",
             "rank": 156,
             "title": "Teenage Dream",
             "artist": "Katy Perry",
@@ -1874,6 +2030,7 @@
             "peak_date": "2010-09-11"
         },
         {
+            "status": "Falling",
             "rank": 157,
             "title": "Brat",
             "artist": "Charli xcx",
@@ -1886,6 +2043,7 @@
             "peak_date": "2024-06-22"
         },
         {
+            "status": "Rising",
             "rank": 158,
             "title": "Never Enough",
             "artist": "Daniel Caesar",
@@ -1898,6 +2056,7 @@
             "peak_date": "2023-04-22"
         },
         {
+            "status": "Falling",
             "rank": 159,
             "title": "Gold: Greatest Hits",
             "artist": "ABBA",
@@ -1910,6 +2069,7 @@
             "peak_date": "2018-08-04"
         },
         {
+            "status": "Falling",
             "rank": 160,
             "title": "Evermore",
             "artist": "Taylor Swift",
@@ -1922,6 +2082,7 @@
             "peak_date": "2020-12-26"
         },
         {
+            "status": "Falling",
             "rank": 161,
             "title": "All Time Greatest Hits",
             "artist": "Lynyrd Skynyrd",
@@ -1934,6 +2095,7 @@
             "peak_date": "2025-07-19"
         },
         {
+            "status": "Falling",
             "rank": 162,
             "title": "Over It",
             "artist": "Summer Walker",
@@ -1946,6 +2108,7 @@
             "peak_date": "2019-10-19"
         },
         {
+            "status": "Falling",
             "rank": 163,
             "title": "No Labels: Part 01 (EP)",
             "artist": "YEONJUN",
@@ -1958,6 +2121,7 @@
             "peak_date": "2025-11-22"
         },
         {
+            "status": "Rising",
             "rank": 164,
             "title": "Happier Than Ever",
             "artist": "Billie Eilish",
@@ -1970,6 +2134,7 @@
             "peak_date": "2021-08-14"
         },
         {
+            "status": "Falling",
             "rank": 165,
             "title": "House Of Balloons",
             "artist": "The Weeknd",
@@ -1982,6 +2147,7 @@
             "peak_date": "2022-02-26"
         },
         {
+            "status": "Falling",
             "rank": 166,
             "title": "Genesis",
             "artist": "Peso Pluma",
@@ -1994,6 +2160,7 @@
             "peak_date": "2023-07-08"
         },
         {
+            "status": "Falling",
             "rank": 167,
             "title": "Religiously. The Album.",
             "artist": "Bailey Zimmerman",
@@ -2006,6 +2173,7 @@
             "peak_date": "2023-05-27"
         },
         {
+            "status": "Falling",
             "rank": 168,
             "title": "Exodo",
             "artist": "Peso Pluma",
@@ -2018,6 +2186,7 @@
             "peak_date": "2024-07-06"
         },
         {
+            "status": "Falling",
             "rank": 169,
             "title": "Utopia",
             "artist": "Travis Scott",
@@ -2030,6 +2199,7 @@
             "peak_date": "2023-08-12"
         },
         {
+            "status": "Falling",
             "rank": 170,
             "title": "Legend: The Best Of Bob Marley And The Wailers",
             "artist": "Bob Marley And The Wailers",
@@ -2042,6 +2212,7 @@
             "peak_date": "2014-09-20"
         },
         {
+            "status": "Falling",
             "rank": 171,
             "title": "Toxicity",
             "artist": "System of a Down",
@@ -2054,6 +2225,7 @@
             "peak_date": "2001-09-22"
         },
         {
+            "status": "Falling",
             "rank": 172,
             "title": "Tha Carter III",
             "artist": "Lil Wayne",
@@ -2066,6 +2238,7 @@
             "peak_date": "2008-06-28"
         },
         {
+            "status": "Rising",
             "rank": 173,
             "title": "Beautifully Broken",
             "artist": "Jelly Roll",
@@ -2078,6 +2251,7 @@
             "peak_date": "2024-10-26"
         },
         {
+            "status": "Falling",
             "rank": 174,
             "title": "Even In Arcadia",
             "artist": "Sleep Token",
@@ -2090,6 +2264,7 @@
             "peak_date": "2025-05-24"
         },
         {
+            "status": "Rising",
             "rank": 175,
             "title": "Planet Her",
             "artist": "Doja Cat",
@@ -2102,6 +2277,7 @@
             "peak_date": "2021-07-10"
         },
         {
+            "status": "Falling",
             "rank": 176,
             "title": "1989",
             "artist": "Taylor Swift",
@@ -2114,6 +2290,7 @@
             "peak_date": "2014-11-15"
         },
         {
+            "status": "Falling",
             "rank": 177,
             "title": "Restless Mind",
             "artist": "Sam Barber",
@@ -2126,6 +2303,7 @@
             "peak_date": "2025-01-18"
         },
         {
+            "status": "Falling",
             "rank": 178,
             "title": "Todavia Me Amas: Lo Mejor de Aventura",
             "artist": "Aventura",
@@ -2138,6 +2316,7 @@
             "peak_date": "2024-07-20"
         },
         {
+            "status": "Falling",
             "rank": 179,
             "title": "The Very Best Of Daryl Hall  John Oates",
             "artist": "Daryl Hall  John Oates",
@@ -2150,6 +2329,7 @@
             "peak_date": "2012-06-23"
         },
         {
+            "status": "Falling",
             "rank": 180,
             "title": "Child Of God",
             "artist": "Forrest Frank",
@@ -2162,6 +2342,7 @@
             "peak_date": "2024-08-10"
         },
         {
+            "status": "Re-Entry",
             "rank": 181,
             "title": "A Bobby Helms Christmas (EP)",
             "artist": "Bobby Helms",
@@ -2174,6 +2355,7 @@
             "peak_date": "2025-01-04"
         },
         {
+            "status": "Falling",
             "rank": 182,
             "title": "Hamilton: 10 Shots (Highlights From The Original Broadway Cast Recording)",
             "artist": "Original Broadway Cast Recording",
@@ -2186,6 +2368,7 @@
             "peak_date": "2025-11-15"
         },
         {
+            "status": "Falling",
             "rank": 183,
             "title": "Greatest Hits",
             "artist": "Bob Seger& The Silver Bullet Band",
@@ -2198,6 +2381,7 @@
             "peak_date": "1994-11-12"
         },
         {
+            "status": "Steady",
             "rank": 184,
             "title": "Thank U, Next",
             "artist": "Ariana Grande",
@@ -2210,6 +2394,7 @@
             "peak_date": "2019-02-23"
         },
         {
+            "status": "Falling",
             "rank": 185,
             "title": "Gettin' Old",
             "artist": "Luke Combs",
@@ -2222,6 +2407,7 @@
             "peak_date": "2023-04-08"
         },
         {
+            "status": "Falling",
             "rank": 186,
             "title": "Mi Vida Mi Muerte",
             "artist": "Neton Vega",
@@ -2234,6 +2420,7 @@
             "peak_date": "2025-03-08"
         },
         {
+            "status": "Rising",
             "rank": 187,
             "title": "SoulFly",
             "artist": "Rod Wave",
@@ -2246,6 +2433,7 @@
             "peak_date": "2021-04-10"
         },
         {
+            "status": "Falling",
             "rank": 188,
             "title": "A Matter Of Time",
             "artist": "Laufey",
@@ -2258,6 +2446,7 @@
             "peak_date": "2025-09-06"
         },
         {
+            "status": "Falling",
             "rank": 189,
             "title": "Greatest Hits",
             "artist": "Aerosmith",
@@ -2270,6 +2459,7 @@
             "peak_date": "2023-09-02"
         },
         {
+            "status": "Falling",
             "rank": 190,
             "title": "No Vacancy",
             "artist": "Treaty Oak Revival",
@@ -2282,6 +2472,7 @@
             "peak_date": "2025-10-11"
         },
         {
+            "status": "Re-Entry",
             "rank": 191,
             "title": "IGOR",
             "artist": "Tyler, the Creator",
@@ -2294,6 +2485,7 @@
             "peak_date": "2019-06-01"
         },
         {
+            "status": "Falling",
             "rank": 192,
             "title": "Last Lap",
             "artist": "Rod Wave",
@@ -2306,6 +2498,7 @@
             "peak_date": "2024-10-26"
         },
         {
+            "status": "Falling",
             "rank": 193,
             "title": "ASTROWORLD",
             "artist": "Travis Scott",
@@ -2318,6 +2511,7 @@
             "peak_date": "2018-08-18"
         },
         {
+            "status": "Falling",
             "rank": 194,
             "title": "We Don't Trust You",
             "artist": "Future&Metro Boomin",
@@ -2330,6 +2524,7 @@
             "peak_date": "2024-04-06"
         },
         {
+            "status": "Re-Entry",
             "rank": 195,
             "title": "One - X",
             "artist": "Three Days Grace",
@@ -2342,6 +2537,7 @@
             "peak_date": "2006-07-01"
         },
         {
+            "status": "Falling",
             "rank": 196,
             "title": "Cigarettes After Sex",
             "artist": "Cigarettes After Sex",
@@ -2354,6 +2550,7 @@
             "peak_date": "2024-10-26"
         },
         {
+            "status": "Falling",
             "rank": 197,
             "title": "King Of Hearts",
             "artist": "Brandon Lake",
@@ -2366,6 +2563,7 @@
             "peak_date": "2025-06-28"
         },
         {
+            "status": "Re-Entry",
             "rank": 198,
             "title": "Metallica",
             "artist": "Metallica",
@@ -2378,6 +2576,7 @@
             "peak_date": "1991-08-31"
         },
         {
+            "status": "Re-Entry",
             "rank": 199,
             "title": "Kansas Anymore",
             "artist": "Role Model",
@@ -2390,6 +2589,7 @@
             "peak_date": "2025-08-02"
         },
         {
+            "status": "Falling",
             "rank": 200,
             "title": "Hot Fuss",
             "artist": "The Killers",
