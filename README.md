@@ -38,6 +38,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
   "date": "YYYY-MM-DD",
   "data": [
     {
+      "status": "Status",
       "rank": 1,
       "title": "Song Title",
       "artist": "Artist Name",
@@ -67,6 +68,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
 *   `debut_position`: 차트 데뷔 순위 (Integer | null).
 *   `debut_date`: 차트 데뷔 날짜 (String | null).
 *   `weeks_on_chart`: 차트 진입 주수 (Integer | null).
+*   `status`: 차트 내에서의 순위 변화 (New, Rising, Falling, Steady, Re-Entry). (String).
 
 ### 예시: Hot 100 Response
 
@@ -75,6 +77,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
   "date": "2024-03-21",
   "data": [
     {
+      "status": "Steady",
       "rank": 1,
       "title": "Beautiful Things",
       "artist": "Benson Boone",
@@ -87,6 +90,7 @@ GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다
       "weeks_on_chart": 8
     },
     {
+      "status": "Falling",
       "rank": 2,
       "title": "Carnival",
       "artist": "¥$: Kanye West & Ty Dolla $ign",
