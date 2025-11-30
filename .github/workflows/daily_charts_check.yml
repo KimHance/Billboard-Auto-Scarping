@@ -1,10 +1,10 @@
-name: Weekly Charts Scrape
+name: Daily Charts Check
 
 on:
   schedule:
-    # UTC 05:00 on Wednesday is KST 14:00
-    # 매주 수요일 한국 시간 14시 00분에 실행 (빌보드 업데이트 반영)
-    - cron: '0 5 * * 3'
+    # UTC 05:00 is KST 14:00
+    # 매일 한국 시간 14시 00분에 실행 (지연 업데이트 대응을 위해 매일 체크)
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 permissions:
@@ -45,5 +45,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add billboard_hot_100.json billboard_200.json billboard_global_200.json billboard_artist_100.json
-        git commit -m "Update Weekly Charts Data [$(date)]" || exit 0
+        git commit -m "Update Charts Data [$(date)]" || exit 0
         git push
