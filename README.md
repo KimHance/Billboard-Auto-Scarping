@@ -9,10 +9,10 @@
 
 | 차트 이름 | API URL | 업데이트 주기 (KST) |
 | :--- | :--- | :--- |
-| **🔥 Hot 100** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_hot_100.json` | **매일** 밤 0시 |
-| **💿 Billboard 200** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_200.json` | **매주 월요일** 밤 0시 |
-| **🌍 Global 200** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_global_200.json` | **매주 월요일** 밤 0시 |
-| **🎤 Artist 100** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_artist_100.json` | **매주 월요일** 밤 0시 |
+| **🔥 Hot 100** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_hot_100.json` | **매주 수요일** 오후 2시 |
+| **💿 Billboard 200** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_200.json` | **매주 수요일** 오후 2시 |
+| **🌍 Global 200** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_global_200.json` | **매주 수요일** 오후 2시 |
+| **🎤 Artist 100** | `https://KimHance.github.io/Billboard-Auto-Scarping/billboard_artist_100.json` | **매주 수요일** 오후 2시 |
 
 > ⚠️ **Note:** GitHub Pages 반영 시간에 따라 데이터 갱신에 약간의 지연이 발생할 수 있습니다.
 
@@ -22,8 +22,7 @@
 
 GitHub Actions가 아래 일정에 맞춰 스크립트를 자동 실행합니다.
 
-*   **Daily Scraping:** 매일 `00:00 KST` (UTC 15:00) - `Hot 100`
-*   **Weekly Scraping:** 매주 월요일 `00:00 KST` (UTC 일요일 15:00) - `Billboard 200`, `Global 200`, `Artist 100`
+*   **Weekly Scraping:** 매주 수요일 `14:00 KST` (UTC 05:00) - `Hot 100`, `Billboard 200`, `Global 200`, `Artist 100`
 
 ---
 

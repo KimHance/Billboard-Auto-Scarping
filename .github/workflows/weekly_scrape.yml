@@ -2,9 +2,9 @@ name: Weekly Charts Scrape
 
 on:
   schedule:
-    # UTC 15:00 on Sunday is KST 00:00 on Monday
-    # 매주 월요일 한국 시간 0시 0분에 실행
-    - cron: '0 15 * * 0'
+    # UTC 05:00 on Wednesday is KST 14:00
+    # 매주 수요일 한국 시간 14시 00분에 실행 (빌보드 업데이트 반영)
+    - cron: '0 5 * * 3'
   workflow_dispatch:
 
 permissions:
@@ -28,6 +28,9 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+    - name: Run Hot 100 Scraper
+      run: python scrape_hot_100.py
+
     - name: Run Billboard 200 Scraper
       run: python scrape_billboard_200.py
 
@@ -41,6 +44,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add billboard_200.json billboard_global_200.json billboard_artist_100.json
+        git add billboard_hot_100.json billboard_200.json billboard_global_200.json billboard_artist_100.json
         git commit -m "Update Weekly Charts Data [$(date)]" || exit 0
         git push
