@@ -51,7 +51,7 @@
             "weeks_on_chart": 47,
             "debut_position": 146,
             "debut_date": "2020-11-21",
-            "peak_date": "2021-01-02"
+            "peak_date": "2025-12-20"
         },
         {
             "status": "Rising",
@@ -350,7 +350,7 @@
             "weeks_on_chart": 1,
             "debut_position": 27,
             "debut_date": "2025-12-13",
-            "peak_date": "2025-12-13"
+            "peak_date": "2025-12-20"
         },
         {
             "status": "Rising",
@@ -467,7 +467,7 @@
             "weeks_on_chart": 3,
             "debut_position": 77,
             "debut_date": "2025-11-29",
-            "peak_date": "2025-12-13"
+            "peak_date": "2025-12-20"
         },
         {
             "status": "Steady",
@@ -714,7 +714,7 @@
             "weeks_on_chart": 15,
             "debut_position": 133,
             "debut_date": "2022-01-01",
-            "peak_date": "2024-01-06"
+            "peak_date": "2025-12-20"
         },
         {
             "status": "Falling",
@@ -1156,7 +1156,7 @@
             "weeks_on_chart": 4,
             "debut_position": 171,
             "debut_date": "2025-11-22",
-            "peak_date": "2025-12-06"
+            "peak_date": "2025-12-20"
         },
         {
             "status": "Falling",
@@ -2092,7 +2092,7 @@
             "weeks_on_chart": 6,
             "debut_position": 182,
             "debut_date": "2025-11-08",
-            "peak_date": "2025-12-13"
+            "peak_date": "2025-12-20"
         },
         {
             "status": "Falling",
