@@ -51,7 +51,7 @@
             "weeks_on_chart": 66,
             "debut_position": 57,
             "debut_date": "2058-12-22",
-            "peak_date": "2020-01-04"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Rising",
@@ -103,7 +103,7 @@
             "weeks_on_chart": 54,
             "debut_position": 100,
             "debut_date": "2060-12-12",
-            "peak_date": "2025-12-20"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Rising",
@@ -116,7 +116,7 @@
             "weeks_on_chart": 37,
             "debut_position": 92,
             "debut_date": "2013-12-21",
-            "peak_date": "2025-01-04"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Steady",
@@ -415,7 +415,7 @@
             "weeks_on_chart": 11,
             "debut_position": 72,
             "debut_date": "2019-12-14",
-            "peak_date": "2025-12-20"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Steady",
@@ -519,7 +519,7 @@
             "weeks_on_chart": 6,
             "debut_position": 92,
             "debut_date": "2022-12-17",
-            "peak_date": "2025-12-13"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Falling",
@@ -961,7 +961,7 @@
             "weeks_on_chart": 2,
             "debut_position": 86,
             "debut_date": "2025-12-13",
-            "peak_date": "2025-12-20"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Rising",
@@ -1039,7 +1039,7 @@
             "weeks_on_chart": 7,
             "debut_position": 100,
             "debut_date": "2025-11-08",
-            "peak_date": "2025-12-13"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Falling",
@@ -1104,7 +1104,7 @@
             "weeks_on_chart": 2,
             "debut_position": 85,
             "debut_date": "2025-12-13",
-            "peak_date": "2025-12-13"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Rising",
@@ -1286,7 +1286,7 @@
             "weeks_on_chart": 1,
             "debut_position": 99,
             "debut_date": "2025-12-20",
-            "peak_date": "2025-12-20"
+            "peak_date": "2025-12-27"
         },
         {
             "status": "Steady",
