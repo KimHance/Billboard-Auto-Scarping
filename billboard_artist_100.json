@@ -51,7 +51,7 @@
             "weeks_on_chart": 17,
             "debut_position": 89,
             "debut_date": "2025-09-20",
-            "peak_date": "2026-01-10"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Rising",
@@ -857,7 +857,7 @@
             "weeks_on_chart": 24,
             "debut_position": 93,
             "debut_date": "2024-03-16",
-            "peak_date": "2025-04-19"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Re-Entry",
@@ -870,7 +870,7 @@
             "weeks_on_chart": 13,
             "debut_position": 96,
             "debut_date": "2023-02-11",
-            "peak_date": "2026-01-10"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Rising",
@@ -1091,7 +1091,7 @@
             "weeks_on_chart": 1,
             "debut_position": 84,
             "debut_date": "2026-01-10",
-            "peak_date": "2026-01-10"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Re-Entry",

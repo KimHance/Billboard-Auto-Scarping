@@ -51,7 +51,7 @@
             "weeks_on_chart": 14,
             "debut_position": 8,
             "debut_date": "2025-10-11",
-            "peak_date": "2026-01-10"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Rising",
@@ -337,7 +337,7 @@
             "weeks_on_chart": 12,
             "debut_position": 21,
             "debut_date": "2025-10-25",
-            "peak_date": "2025-11-15"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Falling",
@@ -376,7 +376,7 @@
             "weeks_on_chart": 7,
             "debut_position": 131,
             "debut_date": "2025-11-29",
-            "peak_date": "2026-01-10"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Rising",
@@ -519,7 +519,7 @@
             "weeks_on_chart": 66,
             "debut_position": 77,
             "debut_date": "2024-08-17",
-            "peak_date": "2026-01-10"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Falling",
@@ -2183,7 +2183,7 @@
             "weeks_on_chart": 27,
             "debut_position": 195,
             "debut_date": "2025-05-03",
-            "peak_date": "2025-10-11"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Re-Entry",
@@ -2313,7 +2313,7 @@
             "weeks_on_chart": 12,
             "debut_position": 130,
             "debut_date": "2024-03-09",
-            "peak_date": "2024-03-30"
+            "peak_date": "2026-01-17"
         },
         {
             "status": "Re-Entry",
