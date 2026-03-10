@@ -142,7 +142,7 @@
             "weeks_on_chart": 7,
             "debut_position": 121,
             "debut_date": "2026-01-24",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Rising",
@@ -298,7 +298,7 @@
             "weeks_on_chart": 3,
             "debut_position": 96,
             "debut_date": "2026-02-21",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Rising",
@@ -584,7 +584,7 @@
             "weeks_on_chart": 1,
             "debut_position": 45,
             "debut_date": "2026-03-07",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Rising",
@@ -935,14 +935,14 @@
             "weeks_on_chart": 5,
             "debut_position": 130,
             "debut_date": "2026-02-07",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "New",
             "rank": 73,
             "title": "Good Flirts",
             "artist": "Baby Keem FeaturingKendrick Lamar& Momo Boyd",
-            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rg5-180x180.jpg",
+            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rhd-180x180.jpg",
             "last_week": null,
             "peak_position": 73,
             "weeks_on_chart": 1,
@@ -1039,7 +1039,7 @@
             "weeks_on_chart": 1,
             "debut_position": 80,
             "debut_date": "2026-03-07",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Falling",
@@ -1111,7 +1111,7 @@
             "rank": 86,
             "title": "Ca$ino",
             "artist": "Baby Keem",
-            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rg5-180x180.jpg",
+            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rhd-180x180.jpg",
             "last_week": null,
             "peak_position": 86,
             "weeks_on_chart": 1,
@@ -1169,7 +1169,7 @@
             "weeks_on_chart": 2,
             "debut_position": 148,
             "debut_date": "2026-02-28",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Falling",
@@ -1657,7 +1657,7 @@
             "rank": 128,
             "title": "House Money",
             "artist": "Baby Keem",
-            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rg5-180x180.jpg",
+            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rhd-180x180.jpg",
             "last_week": null,
             "peak_position": 128,
             "weeks_on_chart": 1,
@@ -1845,7 +1845,7 @@
             "weeks_on_chart": 38,
             "debut_position": 185,
             "debut_date": "2023-06-03",
-            "peak_date": "2024-04-27"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Falling",
@@ -2027,7 +2027,7 @@
             "weeks_on_chart": 1,
             "debut_position": 156,
             "debut_date": "2026-03-07",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Falling",
@@ -2268,7 +2268,7 @@
             "rank": 175,
             "title": "Birds & The Bees",
             "artist": "Baby Keem",
-            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rg5-180x180.jpg",
+            "image": "https://charts-static.billboard.com/img/2019/12/babykeem-rhd-180x180.jpg",
             "last_week": null,
             "peak_position": 175,
             "weeks_on_chart": 1,
@@ -2281,13 +2281,13 @@
             "rank": 176,
             "title": "Forever Tu Gantel",
             "artist": "Omar Courtz & Nengo Flow",
-            "image": "https://charts-static.billboard.com/img/2021/03/omarcourtz-zoe-180x180.jpg",
+            "image": "https://charts-static.billboard.com/img/2021/03/omarcourtz-pgl-180x180.jpg",
             "last_week": null,
             "peak_position": 176,
             "weeks_on_chart": 1,
             "debut_position": 176,
             "debut_date": "2026-03-07",
-            "peak_date": "2026-03-07"
+            "peak_date": "2026-03-14"
         },
         {
             "status": "Rising",
@@ -2599,7 +2599,7 @@
             "weeks_on_chart": 6,
             "debut_position": 188,
             "debut_date": "2025-06-28",
-            "peak_date": "2025-06-28"
+            "peak_date": "2026-03-14"
         }
     ]
 }
