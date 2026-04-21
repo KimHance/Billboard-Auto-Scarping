@@ -103,7 +103,7 @@
             "weeks_on_chart": 8,
             "debut_position": 18,
             "debut_date": "2026-02-28",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Falling",
@@ -220,7 +220,7 @@
             "weeks_on_chart": 28,
             "debut_position": 55,
             "debut_date": "2025-10-11",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Falling",
@@ -259,7 +259,7 @@
             "weeks_on_chart": 39,
             "debut_position": 17,
             "debut_date": "2025-07-26",
-            "peak_date": "2025-07-26"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Rising",
@@ -493,7 +493,7 @@
             "weeks_on_chart": 3,
             "debut_position": 55,
             "debut_date": "2026-04-04",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Falling",
@@ -545,7 +545,7 @@
             "weeks_on_chart": 6,
             "debut_position": 95,
             "debut_date": "2026-03-14",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Steady",
@@ -597,7 +597,7 @@
             "weeks_on_chart": 10,
             "debut_position": 37,
             "debut_date": "2026-02-14",
-            "peak_date": "2026-02-14"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Rising",
@@ -662,7 +662,7 @@
             "weeks_on_chart": 3,
             "debut_position": 91,
             "debut_date": "2026-04-04",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Falling",
@@ -1156,7 +1156,7 @@
             "weeks_on_chart": 1,
             "debut_position": 89,
             "debut_date": "2026-04-18",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Falling",
@@ -1227,14 +1227,14 @@
             "status": "New",
             "rank": 95,
             "title": "Boston",
-            "artist": "STELLA LEFTY",
+            "artist": "Stella Lefty",
             "image": "https://charts-static.billboard.com/img/2026/04/stellalefty-000-boston-97g-180x180.jpg",
             "last_week": null,
             "peak_position": 95,
             "weeks_on_chart": 1,
             "debut_position": 95,
             "debut_date": "2026-04-18",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-04-25"
         },
         {
             "status": "Re-Entry",
