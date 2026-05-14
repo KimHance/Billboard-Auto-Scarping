@@ -808,8 +808,21 @@
             "peak_date": "2025-08-30"
         },
         {
-            "status": "Rising",
+            "status": "Re-Entry",
             "rank": 63,
+            "title": "One Of These Nights",
+            "artist": "Eagles",
+            "image": "https://charts-static.billboard.com/img/1975/06/eagles-3gb-oneofthesenights-2ok-180x180.jpg",
+            "last_week": null,
+            "peak_position": 1,
+            "weeks_on_chart": 57,
+            "debut_position": 25,
+            "debut_date": "1975-06-28",
+            "peak_date": "1975-07-26"
+        },
+        {
+            "status": "Rising",
+            "rank": 64,
             "title": "Greatest Hits",
             "artist": "Tom Petty And The Heartbreakers",
             "image": "https://charts-static.billboard.com/img/1993/12/tom-petty-and-the-heartbreakers-l0r-greatesthits-pwa-180x180.jpg",
@@ -822,7 +835,7 @@
         },
         {
             "status": "Rising",
-            "rank": 64,
+            "rank": 65,
             "title": "Thank Me Later",
             "artist": "Drake",
             "image": "https://charts-static.billboard.com/img/2010/06/drake-bg5-thankmelater-zz6-180x180.jpg",
@@ -835,7 +848,7 @@
         },
         {
             "status": "Rising",
-            "rank": 65,
+            "rank": 66,
             "title": "This One's For You",
             "artist": "Luke Combs",
             "image": "https://charts-static.billboard.com/img/2017/06/luke-combs-s5l-thisonesforyou-tp1-180x180.jpg",
@@ -847,8 +860,8 @@
             "peak_date": "2018-06-16"
         },
         {
-            "status": "Rising",
-            "rank": 66,
+            "status": "Steady",
+            "rank": 67,
             "title": "50 Number Ones",
             "artist": "George Strait",
             "image": "https://charts-static.billboard.com/img/2004/10/george-strait-ncv-50numberones-ape-180x180.jpg",
@@ -861,7 +874,7 @@
         },
         {
             "status": "Rising",
-            "rank": 67,
+            "rank": 68,
             "title": "good kid, m.A.A.d city",
             "artist": "Kendrick Lamar",
             "image": "https://charts-static.billboard.com/img/2012/11/kendrick-lamar-2un-goodkidmaadcity-g0t-180x180.jpg",
@@ -874,7 +887,7 @@
         },
         {
             "status": "Falling",
-            "rank": 68,
+            "rank": 69,
             "title": "Am I The Drama?",
             "artist": "Cardi B",
             "image": "https://charts-static.billboard.com/img/2025/10/cardi-b-tfu-amithedramaX-n71-180x180.jpg",
@@ -887,7 +900,7 @@
         },
         {
             "status": "Rising",
-            "rank": 69,
+            "rank": 70,
             "title": "Where I've Been, Isn't Where I'm Going",
             "artist": "Shaboozey",
             "image": "https://charts-static.billboard.com/img/2024/06/shaboozey-2wm-whereivebeenisntwhereimgoing-xpw-180x180.jpg",
@@ -899,8 +912,8 @@
             "peak_date": "2024-06-15"
         },
         {
-            "status": "Steady",
-            "rank": 70,
+            "status": "Falling",
+            "rank": 71,
             "title": "American Heartbreak",
             "artist": "Zach Bryan",
             "image": "https://charts-static.billboard.com/img/2022/06/zachbryan-bqn-americanheartbreak-9yj-180x180.jpg",
@@ -913,7 +926,7 @@
         },
         {
             "status": "Rising",
-            "rank": 71,
+            "rank": 72,
             "title": "Greatest Hits",
             "artist": "Pitbull",
             "image": "https://charts-static.billboard.com/img/2017/12/pitbull-zjw-greatesthits-mgg-180x180.jpg",
@@ -926,20 +939,20 @@
         },
         {
             "status": "New",
-            "rank": 72,
+            "rank": 73,
             "title": "PEACHES!",
             "artist": "The Black Keys",
             "image": "https://charts-static.billboard.com/img/2026/05/the-black-keys-pii-peaches-qyt-180x180.jpg",
             "last_week": null,
-            "peak_position": 72,
+            "peak_position": 73,
             "weeks_on_chart": 1,
-            "debut_position": 72,
+            "debut_position": 73,
             "debut_date": "2026-05-16",
             "peak_date": "2026-05-16"
         },
         {
-            "status": "Rising",
-            "rank": 73,
+            "status": "Steady",
+            "rank": 74,
             "title": "For All The Dogs",
             "artist": "Drake",
             "image": "https://charts-static.billboard.com/img/2023/10/drake-bg5-forallthedogs-w38-180x180.jpg",
@@ -952,7 +965,7 @@
         },
         {
             "status": "Rising",
-            "rank": 74,
+            "rank": 75,
             "title": "Good Girl Gone Bad",
             "artist": "Rihanna",
             "image": "https://charts-static.billboard.com/img/2007/06/rihanna-87k-goodgirlgonebad-hid-180x180.jpg",
@@ -965,7 +978,7 @@
         },
         {
             "status": "Rising",
-            "rank": 75,
+            "rank": 76,
             "title": "35 Biggest Hits",
             "artist": "Toby Keith",
             "image": "https://charts-static.billboard.com/img/2008/05/toby-keith-r76-35biggesthits-wf4-180x180.jpg",
@@ -978,7 +991,7 @@
         },
         {
             "status": "Falling",
-            "rank": 76,
+            "rank": 77,
             "title": "Cloud 9",
             "artist": "Megan Moroney",
             "image": "https://charts-static.billboard.com/img/2026/03/meganmoroney-ugl-cloud9-449-180x180.jpg",
@@ -991,7 +1004,7 @@
         },
         {
             "status": "Falling",
-            "rank": 77,
+            "rank": 78,
             "title": "111XPANTIA",
             "artist": "Fuerza Regida",
             "image": "https://charts-static.billboard.com/img/2025/05/fuerzaregida-1nc-111xpantia-e39-180x180.jpg",
@@ -1003,8 +1016,8 @@
             "peak_date": "2025-05-17"
         },
         {
-            "status": "Rising",
-            "rank": 78,
+            "status": "Steady",
+            "rank": 79,
             "title": "The Fame",
             "artist": "Lady Gaga",
             "image": "https://charts-static.billboard.com/img/2008/09/lady-gaga-p9u-thefame-w9d-180x180.jpg",
@@ -1017,7 +1030,7 @@
         },
         {
             "status": "Falling",
-            "rank": 79,
+            "rank": 80,
             "title": "This Music May Contain Hope.",
             "artist": "RAYE",
             "image": "https://charts-static.billboard.com/img/2026/04/raye-azb-thismusicmaycontainhope-4vp-180x180.jpg",
@@ -1029,8 +1042,8 @@
             "peak_date": "2026-04-11"
         },
         {
-            "status": "Rising",
-            "rank": 80,
+            "status": "Steady",
+            "rank": 81,
             "title": "Channel Orange",
             "artist": "Frank Ocean",
             "image": "https://charts-static.billboard.com/img/2012/07/frank-ocean-3ku-channelorange-0pl-180x180.jpg",
@@ -1043,7 +1056,7 @@
         },
         {
             "status": "Falling",
-            "rank": 81,
+            "rank": 82,
             "title": "Journey's Greatest Hits",
             "artist": "Journey",
             "image": "https://charts-static.billboard.com/img/1988/12/journey-0b3-journeysgreatesthits-x0r-180x180.jpg",
@@ -1056,7 +1069,7 @@
         },
         {
             "status": "Falling",
-            "rank": 82,
+            "rank": 83,
             "title": "The Rise And Fall Of A Midwest Princess",
             "artist": "Chappell Roan",
             "image": "https://charts-static.billboard.com/img/2023/10/chappellroan-2d8-theriseandfallofamidwestprincess-6vr-180x180.jpg",
@@ -1069,7 +1082,7 @@
         },
         {
             "status": "Rising",
-            "rank": 83,
+            "rank": 84,
             "title": "If I Know Me",
             "artist": "Morgan Wallen",
             "image": "https://charts-static.billboard.com/img/2018/05/morgan-wallen-eos-ifiknowme-n46-180x180.jpg",
@@ -1082,7 +1095,7 @@
         },
         {
             "status": "Rising",
-            "rank": 84,
+            "rank": 85,
             "title": "Lover",
             "artist": "Taylor Swift",
             "image": "https://charts-static.billboard.com/img/2019/09/taylor-swift-vug-lover-a0i-180x180.jpg",
@@ -1095,7 +1108,7 @@
         },
         {
             "status": "Falling",
-            "rank": 85,
+            "rank": 86,
             "title": "I Hope You're Happy",
             "artist": "BigXthaPlug",
             "image": "https://charts-static.billboard.com/img/2025/09/bigxthaplug-2ms-ihopeyourehappy-oeq-180x180.jpg",
@@ -1108,7 +1121,7 @@
         },
         {
             "status": "Falling",
-            "rank": 86,
+            "rank": 87,
             "title": "F-1 Trillion",
             "artist": "Post Malone",
             "image": "https://charts-static.billboard.com/img/2024/08/post-malone-uhe-f1trillion-pkq-180x180.jpg",
@@ -1121,7 +1134,7 @@
         },
         {
             "status": "Rising",
-            "rank": 87,
+            "rank": 88,
             "title": "The Essential Michael Jackson",
             "artist": "Michael Jackson",
             "image": "https://charts-static.billboard.com/img/2005/08/michael-jackson-y4h-theessentialmichaeljackson-20o-180x180.jpg",
@@ -1134,7 +1147,7 @@
         },
         {
             "status": "Rising",
-            "rank": 88,
+            "rank": 89,
             "title": "Legend: The Best Of Bob Marley And The Wailers",
             "artist": "Bob Marley And The Wailers",
             "image": "https://charts-static.billboard.com/img/1984/08/bob-marley-and-the-wailers-det-legendthebestofbobmarleyandthewailers-8th-180x180.jpg",
@@ -1147,7 +1160,7 @@
         },
         {
             "status": "Falling",
-            "rank": 89,
+            "rank": 90,
             "title": "Meteora",
             "artist": "Linkin Park",
             "image": "https://charts-static.billboard.com/img/2003/04/linkin-park-x2v-meteora-fvv-180x180.jpg",
@@ -1160,7 +1173,7 @@
         },
         {
             "status": "Falling",
-            "rank": 90,
+            "rank": 91,
             "title": "Currents",
             "artist": "Tame Impala",
             "image": "https://charts-static.billboard.com/img/2015/08/tame-impala-nyr-currents-bqj-180x180.jpg",
@@ -1173,7 +1186,7 @@
         },
         {
             "status": "Falling",
-            "rank": 91,
+            "rank": 92,
             "title": "Tropicoqueta",
             "artist": "Karol G",
             "image": "https://charts-static.billboard.com/img/2025/07/karol-g-7vn-tropicoqueta-grd-180x180.jpg",
@@ -1186,7 +1199,7 @@
         },
         {
             "status": "Rising",
-            "rank": 92,
+            "rank": 93,
             "title": "Gold: Greatest Hits",
             "artist": "ABBA",
             "image": "https://charts-static.billboard.com/img/1993/10/abba-moq-goldgreatesthits-sx3-180x180.jpg",
@@ -1199,7 +1212,7 @@
         },
         {
             "status": "Rising",
-            "rank": 93,
+            "rank": 94,
             "title": "Greatest Hits",
             "artist": "Fleetwood Mac",
             "image": "https://charts-static.billboard.com/img/1988/12/fleetwood-mac-z28-greatesthits-e3h-180x180.jpg",
@@ -1211,8 +1224,8 @@
             "peak_date": "1989-02-11"
         },
         {
-            "status": "Rising",
-            "rank": 94,
+            "status": "Steady",
+            "rank": 95,
             "title": "Folklore",
             "artist": "Taylor Swift",
             "image": "https://charts-static.billboard.com/img/2020/08/taylor-swift-vug-folklore-hjz-180x180.jpg",
@@ -1225,7 +1238,7 @@
         },
         {
             "status": "Rising",
-            "rank": 95,
+            "rank": 96,
             "title": "Deadbeat",
             "artist": "Tame Impala",
             "image": "https://charts-static.billboard.com/img/2025/11/tame-impala-nyr-deadbeat-v5g-180x180.jpg",
@@ -1238,7 +1251,7 @@
         },
         {
             "status": "Falling",
-            "rank": 96,
+            "rank": 97,
             "title": "My Turn",
             "artist": "Lil Baby",
             "image": "https://charts-static.billboard.com/img/2020/03/lilbaby-kyx-myturn-3fx-180x180.jpg",
@@ -1251,7 +1264,7 @@
         },
         {
             "status": "Falling",
-            "rank": 97,
+            "rank": 98,
             "title": "Purpose",
             "artist": "Justin Bieber",
             "image": "https://charts-static.billboard.com/img/2015/12/justin-bieber-dj8-purpose-snl-180x180.jpg",
@@ -1264,7 +1277,7 @@
         },
         {
             "status": "Falling",
-            "rank": 98,
+            "rank": 99,
             "title": "GNX",
             "artist": "Kendrick Lamar",
             "image": "https://charts-static.billboard.com/img/2024/12/kendrick-lamar-2un-gnx-2n7-180x180.jpg",
@@ -1277,7 +1290,7 @@
         },
         {
             "status": "Falling",
-            "rank": 99,
+            "rank": 100,
             "title": "Zach Bryan",
             "artist": "Zach Bryan",
             "image": "https://charts-static.billboard.com/img/2023/09/zachbryan-bqn-zachbryan-ldh-180x180.jpg",
@@ -1289,8 +1302,8 @@
             "peak_date": "2023-09-09"
         },
         {
-            "status": "Steady",
-            "rank": 100,
+            "status": "Falling",
+            "rank": 101,
             "title": "[Hybrid Theory]",
             "artist": "Linkin Park",
             "image": "https://charts-static.billboard.com/img/2000/11/linkin-park-x2v-hybridtheory-ore-180x180.jpg",
@@ -1303,7 +1316,7 @@
         },
         {
             "status": "Rising",
-            "rank": 101,
+            "rank": 102,
             "title": "Greatest Hits, Vol. I & II",
             "artist": "Billy Joel",
             "image": "https://charts-static.billboard.com/img/1985/07/billy-joel-b07-greatesthitsvoliii-xmo-180x180.jpg",
@@ -1316,7 +1329,7 @@
         },
         {
             "status": "Rising",
-            "rank": 102,
+            "rank": 103,
             "title": "Traveller",
             "artist": "Chris Stapleton",
             "image": "https://charts-static.billboard.com/img/2015/05/chris-stapleton-igf-traveller-k57-180x180.jpg",
@@ -1329,7 +1342,7 @@
         },
         {
             "status": "Rising",
-            "rank": 103,
+            "rank": 104,
             "title": "More Life",
             "artist": "Drake",
             "image": "https://charts-static.billboard.com/img/2017/04/drake-bg5-morelife-8b4-180x180.jpg",
@@ -1342,7 +1355,7 @@
         },
         {
             "status": "Rising",
-            "rank": 104,
+            "rank": 105,
             "title": "Hot Fuss",
             "artist": "The Killers",
             "image": "https://charts-static.billboard.com/img/2004/07/the-killers-81p-hotfuss-49c-180x180.jpg",
@@ -1354,8 +1367,8 @@
             "peak_date": "2005-05-07"
         },
         {
-            "status": "Steady",
-            "rank": 105,
+            "status": "Falling",
+            "rank": 106,
             "title": "I Never Liked You",
             "artist": "Future",
             "image": "https://charts-static.billboard.com/img/2022/05/future-a0z-ineverlikedyou-m49-180x180.jpg",
@@ -1368,7 +1381,7 @@
         },
         {
             "status": "Re-Entry",
-            "rank": 106,
+            "rank": 107,
             "title": "Off The Wall",
             "artist": "Michael Jackson",
             "image": "https://charts-static.billboard.com/img/1979/09/michael-jackson-y4h-offthewall-5tp-180x180.jpg",
@@ -1381,7 +1394,7 @@
         },
         {
             "status": "Rising",
-            "rank": 107,
+            "rank": 108,
             "title": "Starboy",
             "artist": "The Weeknd",
             "image": "https://charts-static.billboard.com/img/2016/12/the-weeknd-jlk-starboy-xmx-180x180.jpg",
@@ -1394,7 +1407,7 @@
         },
         {
             "status": "Rising",
-            "rank": 108,
+            "rank": 109,
             "title": "Eternal Sunshine",
             "artist": "Ariana Grande",
             "image": "https://charts-static.billboard.com/img/2024/03/ariana-grande-i9s-eternalsunshine-a1f-180x180.jpg",
@@ -1407,7 +1420,7 @@
         },
         {
             "status": "Falling",
-            "rank": 109,
+            "rank": 110,
             "title": "DAMN.",
             "artist": "Kendrick Lamar",
             "image": "https://charts-static.billboard.com/img/2017/05/kendrick-lamar-2un-damn-aqz-180x180.jpg",
@@ -1417,19 +1430,6 @@
             "debut_position": 1,
             "debut_date": "2017-05-06",
             "peak_date": "2017-05-06"
-        },
-        {
-            "status": "Re-Entry",
-            "rank": 110,
-            "title": "One Of These Nights",
-            "artist": "Eagles",
-            "image": "https://charts-static.billboard.com/img/1975/06/eagles-3gb-oneofthesenights-2ok-180x180.jpg",
-            "last_week": null,
-            "peak_position": 1,
-            "weeks_on_chart": 57,
-            "debut_position": 25,
-            "debut_date": "1975-06-28",
-            "peak_date": "1975-07-26"
         },
         {
             "status": "Rising",
