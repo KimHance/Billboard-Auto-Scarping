@@ -77,7 +77,7 @@
             "weeks_on_chart": 32,
             "debut_position": 98,
             "debut_date": "2025-10-11",
-            "peak_date": "2026-04-11"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Rising",
@@ -285,7 +285,7 @@
             "weeks_on_chart": 13,
             "debut_position": 31,
             "debut_date": "2026-02-21",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Rising",
@@ -350,7 +350,7 @@
             "weeks_on_chart": 5,
             "debut_position": 95,
             "debut_date": "2026-04-18",
-            "peak_date": "2026-05-16"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Rising",
@@ -428,7 +428,7 @@
             "weeks_on_chart": 10,
             "debut_position": 95,
             "debut_date": "2026-03-14",
-            "peak_date": "2026-05-16"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Rising",
@@ -909,7 +909,7 @@
             "weeks_on_chart": 2,
             "debut_position": 79,
             "debut_date": "2026-05-09",
-            "peak_date": "2026-05-16"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Falling",
@@ -1026,7 +1026,7 @@
             "weeks_on_chart": 5,
             "debut_position": 91,
             "debut_date": "2026-04-18",
-            "peak_date": "2026-05-16"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Re-Entry",
@@ -1163,20 +1163,20 @@
             "rank": 90,
             "title": "Fallin'",
             "artist": "Chris BrownFeaturing Leon Thomas",
-            "image": "https://charts-static.billboard.com/img/2026/05/chris-brown-t69-fallin-l7w-180x180.jpg",
+            "image": "https://charts-static.billboard.com/img/2026/05/chris-brown-cyh-fallin-l7w-180x180.jpg",
             "last_week": null,
             "peak_position": 90,
             "weeks_on_chart": 1,
             "debut_position": 90,
             "debut_date": "2026-05-16",
-            "peak_date": "2026-05-16"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Rising",
             "rank": 91,
             "title": "Obvious",
             "artist": "Chris Brown",
-            "image": "https://charts-static.billboard.com/img/2026/04/chris-brown-t69-obvious-jok-180x180.jpg",
+            "image": "https://charts-static.billboard.com/img/2026/04/chris-brown-cyh-obvious-jok-180x180.jpg",
             "last_week": 99,
             "peak_position": 57,
             "weeks_on_chart": 4,
@@ -1221,7 +1221,7 @@
             "weeks_on_chart": 1,
             "debut_position": 94,
             "debut_date": "2026-05-16",
-            "peak_date": "2026-05-16"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Falling",
@@ -1260,7 +1260,7 @@
             "weeks_on_chart": 1,
             "debut_position": 97,
             "debut_date": "2026-05-16",
-            "peak_date": "2026-05-16"
+            "peak_date": "2026-05-23"
         },
         {
             "status": "Steady",
