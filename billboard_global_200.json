@@ -1133,17 +1133,17 @@
             "peak_date": "2026-05-23"
         },
         {
-            "status": "New",
+            "status": "Rising",
             "rank": 88,
             "title": "Miss You",
             "artist": "Oliver Tree&Robin Schulz",
-            "image": "https://charts-static.billboard.com/img/2022/10/oliver-tree-8zt-missyou-prh-180x180.jpg",
-            "last_week": null,
-            "peak_position": 88,
-            "weeks_on_chart": 1,
-            "debut_position": 88,
-            "debut_date": "2026-07-04",
-            "peak_date": "2026-07-04"
+            "image": "https://charts-static.billboard.com/img/2022/10/oliver-tree-8zt-missyou-xhc-180x180.jpg",
+            "last_week": 99,
+            "peak_position": 11,
+            "weeks_on_chart": 31,
+            "debut_position": 125,
+            "debut_date": "2022-10-22",
+            "peak_date": "2022-11-26"
         },
         {
             "status": "Falling",
