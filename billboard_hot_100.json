@@ -77,7 +77,7 @@
             "weeks_on_chart": 10,
             "debut_position": 7,
             "debut_date": "2026-05-09",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Steady",
@@ -103,7 +103,7 @@
             "weeks_on_chart": 40,
             "debut_position": 55,
             "debut_date": "2025-10-11",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
@@ -168,7 +168,7 @@
             "weeks_on_chart": 13,
             "debut_position": 95,
             "debut_date": "2026-04-18",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Rising",
@@ -220,7 +220,7 @@
             "weeks_on_chart": 24,
             "debut_position": 82,
             "debut_date": "2026-01-31",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
@@ -246,7 +246,7 @@
             "weeks_on_chart": 6,
             "debut_position": 66,
             "debut_date": "2026-06-06",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Rising",
@@ -272,7 +272,7 @@
             "weeks_on_chart": 21,
             "debut_position": 48,
             "debut_date": "2025-05-31",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Rising",
@@ -571,7 +571,7 @@
             "weeks_on_chart": 15,
             "debut_position": 93,
             "debut_date": "2026-02-14",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Rising",
@@ -740,7 +740,7 @@
             "weeks_on_chart": 12,
             "debut_position": 91,
             "debut_date": "2026-04-18",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
@@ -792,7 +792,7 @@
             "weeks_on_chart": 8,
             "debut_position": 97,
             "debut_date": "2026-05-16",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
@@ -870,7 +870,7 @@
             "weeks_on_chart": 3,
             "debut_position": 75,
             "debut_date": "2026-06-27",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "New",
@@ -922,7 +922,7 @@
             "weeks_on_chart": 4,
             "debut_position": 66,
             "debut_date": "2026-06-20",
-            "peak_date": "2026-06-27"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
@@ -935,7 +935,7 @@
             "weeks_on_chart": 5,
             "debut_position": 85,
             "debut_date": "2026-06-13",
-            "peak_date": "2026-07-04"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
@@ -1169,7 +1169,7 @@
             "weeks_on_chart": 10,
             "debut_position": 90,
             "debut_date": "2026-03-14",
-            "peak_date": "2026-04-18"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
@@ -1260,7 +1260,7 @@
             "weeks_on_chart": 3,
             "debut_position": 96,
             "debut_date": "2026-06-20",
-            "peak_date": "2026-06-20"
+            "peak_date": "2026-07-18"
         },
         {
             "status": "Falling",
