@@ -428,7 +428,7 @@
             "weeks_on_chart": null,
             "debut_position": 94,
             "debut_date": "2020-02-01",
-            "peak_date": "2026-07-11"
+            "peak_date": "2026-10-03"
         },
         {
             "status": "Steady",
@@ -784,8 +784,8 @@
         {
             "status": "Steady",
             "rank": 61,
-            "title": "Miley Cyrus",
-            "artist": "Miley Cyrus",
+            "title": "Miley",
+            "artist": "Miley",
             "image": "https://charts-static.billboard.com/img/2007/12/miley-cyrus-g50-artistchart-f1p-180x180.jpg",
             "last_week": null,
             "peak_position": 3,
